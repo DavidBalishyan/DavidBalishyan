@@ -20,9 +20,41 @@
   <img src="https://skillicons.dev/icons?i=tauri" height="30" alt="tauri logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" />
 </div>
 
-###
+<h2 align="left">Editors, that I use</h2>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode" height="30" />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=vscodium" height="30" />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=webstorm" height="30" />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=neovim" height="30" />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=vim" height="30" />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=pycharm" height="30" />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=visualstudio" height="30" />
+  <img width="12" />
+</div>
+<h2 align="left">Technologies, that I use</h2>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=express" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=next" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" />
+</div>
+
+<h2 align="left">Social Media</h2>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
