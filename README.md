@@ -41,6 +41,7 @@
 <img src="https://skillicons.dev/icons?i=visualstudio" height="30" />
   <img width="12" />
 </div>
+  <img width="12" />
 <img src="./img/rr.png" height="30" />
   <img width="12" />
 </div>
