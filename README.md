@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=visualstudio" height="30" />
   <img width="12" />
 </div>
-<img src="https://skillicons.dev/icons?i=rustrover" height="30" />
+<img src="./img/rr.png" height="30" />
   <img width="12" />
 </div>
 <h2 align="left">Technologies, that I use</h2>
