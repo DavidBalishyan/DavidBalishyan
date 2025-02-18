@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" />
 </div>
 
 <h2 align="left">Editors, that I use</h2>
