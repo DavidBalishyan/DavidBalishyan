@@ -17,13 +17,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tauri" height="30" alt="tauri logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="30" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" />
 </div>
 
 <h2 align="left">Editors, that I use</h2>
@@ -49,6 +47,8 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=express" height="30" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="30" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=next" height="30" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pnpm" height="30" />
@@ -56,6 +56,27 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=tauri" height="30" alt="tauri logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=p5js" height="30" alt="p5js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
+  <img width="12"/>
+    <img src="https://skillicons.dev/icons?i=npm" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=remix" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="30" />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="30" />
+  <img width="12" />
 </div>
 
 <h2 align="left">Social Media</h2>
