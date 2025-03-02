@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is David and I'm from Armenia</h2>
 
+<img align="center" src="./img/Armenian_flag.png"/>
+
 ###
 
 <div class="langs" align="center"/>
