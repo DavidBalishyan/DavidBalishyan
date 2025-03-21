@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is David and I'm from Armenia</h2>
 
-<img align="center" src="./img/Armenian_flag.png"/>
 
 ###
 
@@ -102,8 +101,19 @@
   <img width="12" />
 </div>
 
-<h2 align="left">Social Media</h2>
 
- <div align="center">
-  <a href="https://x.com/David4613897512"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
-</div>
+## 🚀 About Me
+
+- 💻 I'm currently working on **Full-stack e-commerce app**.
+- 🌱 I'm learning **Go**.
+- 🧑‍💻 I love building things with **a**.
+- ⚡ Fun fact: **[Fun Fact about yourself]**.
+
+
+
+## 📣 Let's Connect!
+
+- 🌐 [Personal Website](https://david-balishyan.vercel.app)
+- 📧 [Email](mailto:davidbalishyan12@gmail.com)
+- 🖥️ [X(Twitter)](https://x.com/David4613897512)
+
