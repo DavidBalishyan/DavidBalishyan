@@ -105,11 +105,8 @@
 ## 🚀 About Me
 
 - 💻 I'm currently working on **Full-stack e-commerce app**.
-- 🌱 I'm learning **Go**.
-- 🧑‍💻 I love building things with **a**.
-- ⚡ Fun fact: **[Fun Fact about yourself]**.
-
-
+- 🌱 I'm learning **Go(golang)**.
+- 
 
 ## 📣 Let's Connect!
 
