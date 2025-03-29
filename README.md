@@ -10,7 +10,7 @@
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"/>a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css"/>
   <img width="12" />
