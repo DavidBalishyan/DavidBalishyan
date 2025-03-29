@@ -1,7 +1,21 @@
-<h2 align="left">Hi 👋! My name is David and I'm from Armenia</h2>
 
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&amp;color=fff&amp;size=18&amp;lines=👋! My name is David and I'm from Armenia&&%20Code&center=true&width=440&height=18&vCenter=true&pause=500&size=18" />
+<img src="./img/2nd arrow.gif">
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<div align="center">
+<img alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y4dDFrYjA3dXBkcmEyMnZ5eDdrbnNrbWZveHVqdzFveXFiczE0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pThMAKS4BOtz8d2/giphy.gif">
+
+</div>
+<div align="center">
+<a href="https://david-balishyan.vercel.app" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=DavidBalishyan&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+</a>
+</div>
 
 ###
+
 
 <div class="langs" align="center"/>
   <img src="https://iconlib.onrender.com/icon/js" height="40" alt="javascript"/>
