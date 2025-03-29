@@ -23,6 +23,9 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=golang" height="40" alt="golang"/>
+  <img width="12" />
 </div>
 
 <h2 align="left">Editors, that I use</h2> 
@@ -106,7 +109,6 @@
 
 - 💻 I'm currently working on **Full-stack e-commerce app**.
 - 🌱 I'm learning **Go(golang)**.
-- 
 
 ## 📣 Let's Connect!
 
