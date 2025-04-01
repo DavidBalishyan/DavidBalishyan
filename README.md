@@ -5,7 +5,11 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <div align="center">
-<img alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y4dDFrYjA3dXBkcmEyMnZ5eDdrbnNrbWZveHVqdzFveXFiczE0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pThMAKS4BOtz8d2/giphy.gif">
+<!---dfsfdsfsfsdfzdsfdsfkjdsh;fkjh dslkjfhkldsj ;jhflkjdhl fkjhds; kjfhlkjdshlkfjhdsk;ljfhl kjsdhlkfjhdslk jlfh lsdkjhlfkjhlsdkjfhlkjdshl kjfhl dskjhlkjhl kjhsk hdfds-->
+<video autoplay loop muted playsinline width="499" height="395">
+  <source src="animate.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 <div align="center">
@@ -16,109 +20,115 @@
 
 ###
 
-
 <div class="langs" align="center"/>
-  <img src="https://iconlib.onrender.com/icon/js" height="40" alt="javascript"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/TypeScript" height="40" alt="typescript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript"/>
   <img width="12" />  
-  <img src="https://iconlib.onrender.com/icon/React-Dark" height="40" alt="react"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/html" height="40" alt="html"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/css" height="40" alt="css"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/Rust" height="40" alt="rust"/>
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/cpp" height="40" alt="c++"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/Python-Dark" height="40" alt="python"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/PHP-Dark" height="40" alt="php"/>
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/Sass" height="40" alt="sass"/>
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/golang" height="40" alt="golang"/>
+  <img src="https://skillicons.dev/icons?i=golang" height="40" alt="golang"/>
   <img width="12" />
 </div>
 
 <h2 align="left">Editors, that I use</h2> 
 <div align="center">
-<img src="https://iconlib.onrender.com/icon/VSCode-Dark" height="40" alt="vscode"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode"/>
   <img width="12" />
-<img src="https://iconlib.onrender.com/icon/VSCodium-Dark" height="40" alt="vscodium"/>
+<img src="https://skillicons.dev/icons?i=vscodium" height="40" alt="vscodium"/>
   <img width="12" />
-<img src="https://iconlib.onrender.com/icon/WebStorm-Dark" height="40" alt="webstorm"/>
+<img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm"/>
   <img width="12" />
-<img src="https://iconlib.onrender.com/icon/NeoVim-Dark" height="40" alt="neovim"/>
+<img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim"/>
   <img width="12" />
-<img src="https://iconlib.onrender.com/icon/VIM-Dark" height="40" alt="vim"/>
+<img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim"/>
   <img width="12" />
-<img src="https://iconlib.onrender.com/icon/PyCharm-Dark" height="40" alt="pycharm"/>
+<img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm"/>
   <img width="12" />
-<img src="https://iconlib.onrender.com/icon/VisualStudio-Dark" height="40" alt="visual studio"/>
+<img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio"/>
   <img width="12" />
 </div>
 
 <h2 align="left">Other stuff, that I use</h2> 
 <div align="center">
-<img src="https://iconlib.onrender.com/icon/express-dark" height="40" alt="express"/>
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="express"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/Svelte" height="40" alt="svelte"/>
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/NextJS-Dark" height="40" alt="next.js"/>
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next.js"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/Pnpm-Dark" height="40" alt="pnpm"/>
+  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/NodeJS-Dark" height="40" alt="nodejs"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/bun-dark" height="40" alt="bun.js"/>
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun.js"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/deno-Dark" height="40" alt="deno"/>
+  <img src="https://skillicons.dev/icons?i=deno" height="40" alt="deno"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/Vite-Dark" height="40" alt="vite"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite"/>
   <img width="12" />
-   <img src="https://iconlib.onrender.com/icon/Tauri-Dark" height="40" alt="tauri"/>
+   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/electron" height="40" alt="electron"/>
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/MySQL-Dark" height="40" alt="mysql"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/p5js" height="40" alt="p5.js"/>
+  <img src="https://skillicons.dev/icons?i=p5js" height="40" alt="p5.js"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/Redux" height="40" alt="redux"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux"/>
   <img width="12"/>
-  <img src="https://iconlib.onrender.com/icon/Remix-Dark" height="40" alt="remix"/>
+  <img src="https://skillicons.dev/icons?i=remix" height="40" alt="remix"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/Vercel-Dark" height="40" alt="vercel"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/ThreeJS-Dark" height="40" alt="three.js"/>
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="three.js"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/TailwindCSS-Dark" height="40" alt="tailwindcss"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/bootstrap" height="40" alt="bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/MaterialUI-Dark" height="40" alt="MUI"/>
+  <img src="https://skillicons.dev/icons?i=mui" height="40" alt="MUI"/>
   <img width="12" />
-   <img src="https://iconlib.onrender.com/icon/MongoDB" height="40" alt="mongodb"/>
+   <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="mongodb"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/PostgreSQL-Dark" height="40" alt="postgres"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres"/>
   <img width="12" />
-   <img src="https://iconlib.onrender.com/icon/Pug-Dark" height="40" alt="pug"/>
+   <img src="https://skillicons.dev/icons?i=pug" height="40" alt="pug"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/htmx-dark" height="40" alt="htmx"/>
+  <img src="https://skillicons.dev/icons?i=htmx" height="40" alt="htmx"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/Redis-Dark" height="40" alt="redis"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/SQLite" height="40" alt="sqlite"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/docker" height="40" alt="docker"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/flask-dark" height="40" alt="flask"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask"/>
   <img width="12" />
-  <img src="https://iconlib.onrender.com/icon/Postman" height="40" alt="postman"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman"/>
   <img width="12" />
 </div>
+
+<h2 align="left">Social Media</h2>
+
+ <div align="center">
+  <a href="https://x.com/David4613897512"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
+</div>
+
 
 
 ## 🚀 About Me
@@ -132,3 +142,8 @@
 - 📧 [Email](mailto:davidbalishyan12@gmail.com)
 - 🖥️ [X(Twitter)](https://x.com/David4613897512)
 
+
+ <img alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y4dDFrYjA3dXBkcmEyMnZ5eDdrbnNrbWZveHVqdzFveXFiczE0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pThMAKS4BOtz8d2/giphy.gif"> 
+ <img alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZwOTJndXV2cTlpY3R0ZGhiZzFxczM4OTVib3J2dDJmaTB2ZzZ6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11vhCpFcD3um7m/giphy.gif">
+ <img alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25nNmNldHBqdWF0ZG13ZTB6bWc4OGpxNnlydjd6cjhuaGVzNmRpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8Fi8g72fyQerXBayz/giphy.gif">  
+ <img alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJuYnhwODBvYTk1cDRtNjQ2dmRzMmt4cDRmNTJjOG5vOHNkeGdkMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HLB0nLA36GCCo6JuB5/giphy.gif"> 
