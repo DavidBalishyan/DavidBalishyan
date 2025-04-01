@@ -6,7 +6,7 @@
 
 <div align="center">
 <!---dfsfdsfsfsdfzdsfdsfkjdsh;fkjh dslkjfhkldsj ;jhflkjdhl fkjhds; kjfhlkjdshlkfjhdsk;ljfhl kjsdhlkfjhdslk jlfh lsdkjhlfkjhlsdkjfhlkjdshl kjfhl dskjhlkjhl kjhsk hdfds-->
-<video  controls width="499" height="395">
+<video  autoplay loop playsinline muted width="499" height="395">
   <source src="animate.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
