@@ -145,7 +145,12 @@
 - 🖥️ [X(Twitter)](https://x.com/David4613897512)
 
 
- <img alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y4dDFrYjA3dXBkcmEyMnZ5eDdrbnNrbWZveHVqdzFveXFiczE0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pThMAKS4BOtz8d2/giphy.gif"> 
+ <!---<img alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y4dDFrYjA3dXBkcmEyMnZ5eDdrbnNrbWZveHVqdzFveXFiczE0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pThMAKS4BOtz8d2/giphy.gif"> 
  <img alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZwOTJndXV2cTlpY3R0ZGhiZzFxczM4OTVib3J2dDJmaTB2ZzZ6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11vhCpFcD3um7m/giphy.gif">
  <img alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25nNmNldHBqdWF0ZG13ZTB6bWc4OGpxNnlydjd6cjhuaGVzNmRpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8Fi8g72fyQerXBayz/giphy.gif">  
  <img alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJuYnhwODBvYTk1cDRtNjQ2dmRzMmt4cDRmNTJjOG5vOHNkeGdkMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HLB0nLA36GCCo6JuB5/giphy.gif"> 
+-->
+
+## 📣 Some projects from me to take a look!
+ 
+- 🖥️ Alternative to Neofetch/fastfetch [Betterfetch](https://www.github.com/betterfetch)
