@@ -1,6 +1,6 @@
+# Hi! My name is David and I'm from Armenia
 
-# 👋! My name is David and I'm from Armenia
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">-->
 
 <div align="center">
 <!---dfsfdsfsfsdfzdsfdsfkjdsh;fkjh dslkjfhkldsj ;jhflkjdhl fkjhds; kjfhlkjdshlkfjhdsk;ljfhl kjsdhlkfjhdslk jlfh lsdkjhlfkjhlsdkjfhlkjdshl kjfhl dskjhlkjhl kjhsk hdfds-->
@@ -13,9 +13,9 @@
 
 </div>
 <div align="center">
-<a href="https://david-balishyan.vercel.app" target="_blank">
+<!-- <a href="https://david-balishyan.vercel.app" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=DavidBalishyan&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
-</a>
+</a> -->
 </div>
 
 ###
