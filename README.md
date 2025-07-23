@@ -131,10 +131,10 @@
 
 
 
-## 🚀 About Me
+<!-- ## 🚀 About Me
 
-- 💻 I'm currently working on **Full-stack e-commerce app**.
-- 🌱 I'm learning **Go(golang)**.
+- 💻 I'm currently working on ****.
+- 🌱 I'm learning ** **.-->
 
 ## 📣 Let's Connect!
 
