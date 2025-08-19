@@ -21,17 +21,25 @@
 ###
 
 <div class="langs" align="center"/>
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch btw"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian btw"/>
+  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu btw"/> -->
+<br/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript"/>
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"/>
+<!--   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css"/>
-  <img width="12" />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++"/>
   <img width="12" />
@@ -39,9 +47,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=golang" height="40" alt="golang"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua"/>
   <img width="12" />
 </div>
 
@@ -59,7 +67,11 @@
   <img width="12" />
 <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="pycharm"/>
+  <img width="12" />
 <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion"/>
   <img width="12" />
 </div>
 
@@ -121,6 +133,24 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tf"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch"/>
+  <img width="12" />
+ <img src="https://skillicons.dev/icons?i=wasm" height="40" alt="wasm"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch btw"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian btw"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu btw"/>
+  <img width="12" />
 </div>
 
 <h2 align="left">Social Media</h2>
@@ -151,4 +181,4 @@
 
 ## 📣 Some projects from me to take a look!
  
-- 🖥️ Alternative to Neofetch/fastfetch [Betterfetch](https://www.github.com/betterfetch)
+- 🖥️ Alternative to Neofetch/fastfetch [Betterfetch](https://www.github.com/betterfetch/betterfetch)
