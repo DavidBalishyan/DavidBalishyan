@@ -149,12 +149,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian btw"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu btw"/>
-  <img width="12" />
 </div>
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidbalishyan&" alt="davidbalishyan" /></p>
+<p><img align="center" src="https://github-readme-stats-by-david.vercel.app/api?username=DavidBalishyan&theme=tokyonight" alt="davidbalishyan"/></p>
 
 <h2 align="left">Social Media</h2>
 
