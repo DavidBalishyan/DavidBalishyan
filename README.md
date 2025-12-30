@@ -152,7 +152,9 @@
 </div>
 </br>
 
-<p><img align="center" src="https://github-readme-stats-by-david.vercel.app/api?username=DavidBalishyan&theme=tokyonight" alt="davidbalishyan"/></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats-by-david.vercel.app/api?username=DavidBalishyan&theme=tokyonight" alt="davidbalishyan"/></p>
+</div>
 
 <h2 align="left">Social Media</h2>
 
