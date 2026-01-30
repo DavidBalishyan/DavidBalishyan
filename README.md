@@ -152,9 +152,13 @@
 </div>
 </br>
 
+>[!NOTE]
+>All of my repos are avalable at `davidbalishyan.github.io/[repo name]`, where [repo name] is the actual name of the repository
+
 <div align="center">
   <p><img align="center" src="https://github-readme-stats-by-david.vercel.app/api?username=DavidBalishyan&theme=tokyonight" alt="davidbalishyan"/></p>
 </div>
+
 
 <h2 align="left">Social Media</h2>
 
