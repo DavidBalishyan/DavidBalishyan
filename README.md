@@ -1,21 +1,8 @@
 # Hi! My name is David and I'm from Armenia
 
-<!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">-->
-
 <div align="center">
-<!---dfsfdsfsfsdfzdsfdsfkjdsh;fkjh dslkjfhkldsj ;jhflkjdhl fkjhds; kjfhlkjdshlkfjhdsk;ljfhl kjsdhlkfjhdslk jlfh lsdkjhlfkjhlsdkjfhlkjdshl kjfhl dskjhlkjhl kjhsk hdfds-->
-<!-- <video autoplay loop muted playsinline width="499" height="395">
-  <source src="animate.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
-<img alt="Coding" width="400" src="./animate.gif"> 
+<img alt="Coding" width="400" src="./animate.gif">
 
-
-</div>
-<div align="center">
-<!-- <a href="https://david-balishyan.vercel.app" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=DavidBalishyan&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
-</a> -->
 </div>
 
 ###
@@ -25,7 +12,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian btw"/>
   <img width="12" />
-  <!-- <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu btw"/> -->
 <br/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"/>
   <img width="12" />
@@ -33,10 +19,6 @@
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react"/>
   <img width="12" />
-<!--   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css"/>
-  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c"/>
@@ -152,40 +134,42 @@
 </div>
 </br>
 
->[!NOTE]
->All of my repos are avalable at `davidbalishyan.github.io/[repo name]`, where [repo name] is the actual name of the repository
+> [!NOTE]
+> All of my repos are avalable at `davidbalishyan.github.io/[repo name]`, where [repo name] is the actual name of the repository
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats-by-david.vercel.app/api?username=DavidBalishyan&theme=tokyonight" alt="davidbalishyan"/></p>
-</div>
+<h2 align="left">💬 Quotes</h2>
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+        <i>"The exact same code, when looked at by a different person, is a different problem."</i>
+        <br/>
+        &mdash; <b>Me</b>
+    </td>
+    <td align="center" width="50%">
+        <i>
+          “The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops.” 
+        </i>
+        <br/>
+        &mdash; <b>Joseph Weizenbaum</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+        <i>"Be yourself; everyone else is already taken."</i>
+        <br/>
+        &mdash; <b>Oscar Wilde</b>
+    </td>
+    <td align="center" width="50%">
+        <i>
+Մենք ամենքըս հյուր ենք կյանքում
+Մեր ծնընդյան փուչ օրից,
+Հերթով գալիս, անց ենք կենում
+Էս անցավոր աշխարհից։</i>
+        <br/>
+        &mdash; <b>Հովհաննես Թումանյան</b>
+    </td>
+  </tr>
+</table>
 
-<h2 align="left">Social Media</h2>
-
- <div align="center">
-  <a href="https://x.com/David4613897512"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
-</div>
-
-
-
-<!-- ## 🚀 About Me
-
-- 💻 I'm currently working on ****.
-- 🌱 I'm learning ** **.-->
-
-## 📣 Let's Connect!
-
-- 🌐 [Personal Website](https://david-balishyan.vercel.app)
-- 📧 [Email](mailto:davidbalishyan12@gmail.com)
-- 🖥️ [X(Twitter)](https://x.com/David4613897512)
-
-
- <!---<img alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y4dDFrYjA3dXBkcmEyMnZ5eDdrbnNrbWZveHVqdzFveXFiczE0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pThMAKS4BOtz8d2/giphy.gif"> 
- <img alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZwOTJndXV2cTlpY3R0ZGhiZzFxczM4OTVib3J2dDJmaTB2ZzZ6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11vhCpFcD3um7m/giphy.gif">
- <img alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25nNmNldHBqdWF0ZG13ZTB6bWc4OGpxNnlydjd6cjhuaGVzNmRpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8Fi8g72fyQerXBayz/giphy.gif">  
- <img alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJuYnhwODBvYTk1cDRtNjQ2dmRzMmt4cDRmNTJjOG5vOHNkeGdkMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HLB0nLA36GCCo6JuB5/giphy.gif"> 
--->
-
-## 📣 Some projects from me to take a look!
- 
-- 🖥️ Alternative to Neofetch/fastfetch [Betterfetch](https://www.github.com/betterfetch/betterfetch)
+###
