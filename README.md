@@ -137,7 +137,7 @@
 > [!NOTE]
 > All of my repos are avalable at `davidbalishyan.github.io/[repo name]`, where [repo name] is the actual name of the repository
 
-<h2 align="left">💬 Quotes</h2>
+<h2 align="left">Meaningfull Quotes</h2>
 
 <table align="center">
   <tr>
@@ -167,7 +167,7 @@
 Հերթով գալիս, անց ենք կենում
 Էս անցավոր աշխարհից։</i>
         <br/>
-        &mdash; <b>Հովհաննես Թումանյան</b>
+        &mdash; <b>Հովհաննես Թումանյան, Թմկաբերդի առումը պոեմ</b>
     </td>
   </tr>
 </table>
