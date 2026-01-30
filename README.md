@@ -137,14 +137,14 @@
 > [!NOTE]
 > All of my repos are avalable at `davidbalishyan.github.io/[repo name]`, where [repo name] is the actual name of the repository
 
-<h2 align="left">Meaningfull Quotes</h2>
+<h2 align="left">Meaningful quotes</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-        <i>"The exact same code, when looked at by a different person, is a different problem."</i>
+        <i>“You have to believe in yourself when no one else does.”</i>
         <br/>
-        &mdash; <b>Me</b>
+        &mdash; <b>Serena Williams</b>
     </td>
     <td align="center" width="50%">
         <i>
