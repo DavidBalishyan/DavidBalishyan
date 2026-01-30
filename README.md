@@ -135,7 +135,7 @@
 </br>
 
 > [!NOTE]
-> All of my repos are avalable at `davidbalishyan.github.io/[repo name]`, where [repo name] is the actual name of the repository
+> All of my repos are available at `davidbalishyan.github.io/[repo name]`, where [repo name] is the actual name of the repository
 
 <h2 align="left">Meaningful quotes</h2>
 
