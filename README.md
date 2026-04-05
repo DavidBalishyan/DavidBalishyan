@@ -173,3 +173,20 @@
 </table>
 
 ###
+
+<h2 align="center">Scan to Visit</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./img/my_website.png" alt="My Website" width="200">
+      <br/>
+      <b>My Website</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="./img/my_blog.png" alt="My Blog" width="200">
+      <br/>
+      <b>My Blog</b>
+    </td>
+  </tr>
+</table>
