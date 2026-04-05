@@ -179,12 +179,16 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
+    <a href="https://davidbalishyan.github.io">
       <img src="./img/my_website.png" alt="My Website" width="200">
+    </a>
       <br/>
       <b>My Website</b>
     </td>
     <td align="center" width="50%">
+    <a href="https://davidbalishyan.github.io/blog">
       <img src="./img/my_blog.png" alt="My Blog" width="200">
+    </a>
       <br/>
       <b>My Blog</b>
     </td>
