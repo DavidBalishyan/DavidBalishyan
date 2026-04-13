@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="Ruby"/>
+  <img width="12" />
 </div>
 
 <h2 align="left">Editors, that I use</h2> 
