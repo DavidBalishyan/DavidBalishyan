@@ -1,70 +1,129 @@
 <h2 align="left">Projects</h2>
 
 ### Rust
+
 | Project | Description |
 |---------|-------------|
-| [TinyC](https://github.com/davidbalishyan/TinyC) | C-style interpreted programming language |
-| [miniedit](https://github.com/davidbalishyan/miniedit) | Minimal TUI text editor with cursor navigation and file I/O |
-| [chat.rs](https://github.com/davidbalishyan/chat.rs) | Local chat server written in Rust |
-| [the-RT-stack](https://github.com/davidbalishyan/the-RT-stack) | Full-stack web app with React + TypeScript + Rsbuild + Tokio |
-| [markdown-previewer-rust](https://github.com/davidbalishyan/markdown-previewer-rust) | Web-based markdown previewer |
-| [lsr](https://github.com/davidbalishyan/lsr) | Simple GNU `ls` replacement |
+| [chat-client.rs](https://github.com/DavidBalishyan/chat-client.rs) | The client for https://github.com/DavidBalishyan/chat.rs |
+| [chat.rs](https://github.com/DavidBalishyan/chat.rs) | A local chat server written in rust |
+| [lsr](https://github.com/DavidBalishyan/lsr) | A simple GNU ls replacement. |
+| [markdown-previewer-rust](https://github.com/DavidBalishyan/markdown-previewer-rust) | A web based markdown previewer. written in rust |
+| [miniedit](https://github.com/DavidBalishyan/miniedit) | A simple TUI text editor. Written in Rust |
+| [rust-mini-projects](https://github.com/DavidBalishyan/rust-mini-projects) | Some mini project in Rust  |
+| [the-RT-stack](https://github.com/DavidBalishyan/the-RT-stack) | A web app example using React + Typescript + Rsbuild + Tokio |
+| [TinyC](https://github.com/DavidBalishyan/TinyC) | A C-style interpreted programming languge. Written in rust and the help of AI |
 
 ### C / C++
+
 | Project | Description |
 |---------|-------------|
-| [cfmt](https://github.com/davidbalishyan/cfmt) | Fast, modular C code formatter with no external dependencies |
-| [clibx](https://github.com/davidbalishyan/clibx) | Header-only C utility library (strings, arrays, math, memory) |
-| [cutils](https://github.com/davidbalishyan/cutils) | From-scratch reimplementation of GNU coreutils |
-| [calgo](https://github.com/davidbalishyan/calgo) | Common algorithms implemented in C (search, sort, recursion) |
-| [myshell](https://github.com/davidbalishyan/myshell) | Simple shell built as a coding challenge |
-| [C-Chat](https://github.com/davidbalishyan/C-Chat) | Chat application written entirely in C |
-| [smart_home](https://github.com/davidbalishyan/smart_home) | 2nd place project at AESA 24th annual science olympiad (C++) |
+| [C-Chat](https://github.com/DavidBalishyan/C-Chat) | Chat app in The C programming language |
+| [calgo](https://github.com/DavidBalishyan/calgo) | Some algorithms implemented in C |
+| [cfmt](https://github.com/DavidBalishyan/cfmt) | A C code formatter writen in C with the help of GenAI |
+| [clibx](https://github.com/DavidBalishyan/clibx) | A small C utility library with common macros and helper functions designed to simplify everyday C development tasks. |
+| [cutils](https://github.com/DavidBalishyan/cutils) | Simple rewrite of some GNU coreutils, just for fun |
+| [myshell](https://github.com/DavidBalishyan/myshell) | A simple shell built as a coding challange |
+| [smart_home](https://github.com/DavidBalishyan/smart_home) | The 2nd place project on the AESA 24th annual science olympiad |
+| [st](https://github.com/DavidBalishyan/st) | A mirror of st (suckless terminal) |
+| [st-custom](https://github.com/DavidBalishyan/st-custom) | My custom build of the suckless terminal |
 
 ### Web
+
 | Project | Description |
 |---------|-------------|
-| [davidbalishyan.github.io](https://github.com/davidbalishyan/davidbalishyan.github.io) | Personal portfolio & hub with smart redirects (Svelte 5, TypeScript) |
-| [my-portfolio](https://github.com/davidbalishyan/my-portfolio) | Portfolio built with React 18, Tailwind CSS, Redux Toolkit |
-| [real-time-chat](https://github.com/davidbalishyan/real-time-chat) | Full-stack chat app with WebSockets, JWT auth, Redis (Express, TypeScript) |
-| [webman](https://github.com/davidbalishyan/webman) | Web-based open-source Postman alternative (TypeScript, Node.js) |
-| [create-d4](https://github.com/davidbalishyan/create-d4) | Scaffolding CLI to kickstart React projects with Vite/Rsbuild |
-| [gh](https://github.com/davidbalishyan/gh) | Browse GitHub repos via the web using the GitHub API |
-| [system-monitor-web](https://github.com/davidbalishyan/system-monitor-web) | Simple system monitoring web app with a clean design |
-| [chatdeck](https://github.com/davidbalishyan/chatdeck) | Stream chat viewer for your live broadcasts |
+| [art-p5.js](https://github.com/DavidBalishyan/art-p5.js) | P5.js is an art and creative coding library. I wrote some code using it |
+| [blog](https://github.com/DavidBalishyan/blog) | My personal blog |
+| [button](https://github.com/DavidBalishyan/button) | Just a button |
+| [Calculator](https://github.com/DavidBalishyan/Calculator) | Working Calculator using HTML CSS and Javascript |
+| [chatdeck](https://github.com/DavidBalishyan/chatdeck) | A web app to see your stream chat |
+| [Coffee-machine-js](https://github.com/DavidBalishyan/Coffee-machine-js) |  |
+| [contact-app](https://github.com/DavidBalishyan/contact-app) | A simple full-stack contact app. For backend Python with Flask. For frontend JS with React. |
+| [counter-app-react](https://github.com/DavidBalishyan/counter-app-react) | This is a simple counter web app created in react js |
+| [create-d4](https://github.com/DavidBalishyan/create-d4) | :zap: A modern scaffolding CLI to kickstart React projects with Vite or Rsbuild.  Includes options for Tailwind CSS v4, state management, routing, linting, and more. |
+| [creative-personal-website](https://github.com/DavidBalishyan/creative-personal-website) | A Creative, beautiful personal website built entirely by Generative Artifical Intelegance (GenAI) |
+| [davidbalishyan.github.io](https://github.com/DavidBalishyan/davidbalishyan.github.io) | My personal website |
+| [duckduckgo-ui](https://github.com/DavidBalishyan/duckduckgo-ui) | A custom UI for the duckduckgo search engine |
+| [flip-a-coin](https://github.com/DavidBalishyan/flip-a-coin) | Flip-a-coin website |
+| [fungames-nodejs](https://github.com/DavidBalishyan/fungames-nodejs) | 3 fun games in nodejs |
+| [gh](https://github.com/DavidBalishyan/gh) | A way to just read the files in a github repository using just simple web technologies and the github api |
+| [helloPc](https://github.com/DavidBalishyan/helloPc) | This is a website |
+| [iconlib-api](https://github.com/DavidBalishyan/iconlib-api) | iconlib is an API for icons [newer golang rewrite - https://github.com/DavidBalishyan/iconlib-go] |
+| [js-turtle](https://github.com/DavidBalishyan/js-turtle) | Turtle graphics for javasctipt |
+| [manpages](https://github.com/DavidBalishyan/manpages) | Basically every manpage on my system dumped on the web |
+| [modern-tictactoe](https://github.com/DavidBalishyan/modern-tictactoe) |  |
+| [notes-fullstack](https://github.com/DavidBalishyan/notes-fullstack) | Notes application using react, express, MySQL |
+| [page-react-repo](https://github.com/DavidBalishyan/page-react-repo) |  |
+| [pokeimg](https://github.com/DavidBalishyan/pokeimg) |  |
+| [quizz-react](https://github.com/DavidBalishyan/quizz-react) | Quizz app made using react js |
+| [real-time-chat](https://github.com/DavidBalishyan/real-time-chat) | A real time chat app for a workshop at TUMO center Armenia |
+| [store](https://github.com/DavidBalishyan/store) | This is a store website written in HTML CSS JS |
+| [store-mern](https://github.com/DavidBalishyan/store-mern) | Product store using the MERN stack |
+| [system-monitor-web](https://github.com/DavidBalishyan/system-monitor-web) | A simple web app focused on creating a nice and simple design |
+| [Tictactoe](https://github.com/DavidBalishyan/Tictactoe) | Tictactoe app |
+| [todo](https://github.com/DavidBalishyan/todo) | Todo list app written in javascript no-libreries |
+| [todo-dnd](https://github.com/DavidBalishyan/todo-dnd) |  |
+| [todo-react](https://github.com/DavidBalishyan/todo-react) | A simple Todo app created in react js |
+| [todo-react-best-ui](https://github.com/DavidBalishyan/todo-react-best-ui) | this is updated version of my todo-react repo, ui is better than the old on and it is not an added ui on older repo, it`s built from scratch! |
+| [toggle-button](https://github.com/DavidBalishyan/toggle-button) |  |
+| [users-managing-app-react](https://github.com/DavidBalishyan/users-managing-app-react) | Users managing app in React JS |
+| [weather-app](https://github.com/DavidBalishyan/weather-app) | A simple weather app using reactjs |
+| [webman](https://github.com/DavidBalishyan/webman) | A fast, web-based, open-source alternative to Postman - built with Typescript, Tailwind CSS, and Node.js. |
+| [Wikipedia-searcher](https://github.com/DavidBalishyan/Wikipedia-searcher) |  |
+| [world-generation-p5js](https://github.com/DavidBalishyan/world-generation-p5js) | world generation using p5.js |
 
 ### Python
+
 | Project | Description |
 |---------|-------------|
-| [makeover](https://github.com/davidbalishyan/makeover) | Build system wrapper, a cleaner Make alternative |
-| [manimations](https://github.com/davidbalishyan/manimations) | Mathematical animations with Manim Community library |
-| [python-olympiad](https://github.com/davidbalishyan/python-olympiad) | Solutions to the DIGI.code() programming olympiad |
-| [dino-pygame](https://github.com/davidbalishyan/dino-pygame) | Chrome dinosaur game clone built with Pygame |
-| [python-chatbot](https://github.com/davidbalishyan/python-chatbot) | Local AI chatbot app in Python |
-| [pyhello](https://github.com/davidbalishyan/pyhello) | Mini Python programs for learning the basics |
-| [PyWeather](https://github.com/davidbalishyan/PyWeather) | Weather data analysis with Python and Pandas |
-| [PyML](https://github.com/davidbalishyan/PyML) | Machine learning project at TUMO center (Jupyter Notebook) |
+| [digit-recognizer-tensorflow](https://github.com/DavidBalishyan/digit-recognizer-tensorflow) | Handwritten Digit Recognizer using TensorFlow |
+| [dino-pygame](https://github.com/DavidBalishyan/dino-pygame) | The Chrome dinasour game clone written in python using the pygame library |
+| [makeover](https://github.com/DavidBalishyan/makeover) | A GNU Make alternative designed to be user-friendly and have simple syntax |
+| [manimations](https://github.com/DavidBalishyan/manimations) | Examples using the Manim Animation library in python |
+| [pyhello](https://github.com/DavidBalishyan/pyhello) | Theese are a set of mini python programs to help you learn the basics of python |
+| [PyML](https://github.com/DavidBalishyan/PyML) | The final project for a machine learning project at Tumo center of creative technologies |
+| [python-automations](https://github.com/DavidBalishyan/python-automations) | Automations using python |
+| [python-chatbot](https://github.com/DavidBalishyan/python-chatbot) | A local AI chatbot app written in python |
+| [python-olympiad](https://github.com/DavidBalishyan/python-olympiad) | Olympiad held by DIGI.code() in Armenia [Solutions] |
+| [PyWeather](https://github.com/DavidBalishyan/PyWeather) | A weather data analysis project using Python and The Pandas library |
 
 ### Shell / Bash
+
 | Project | Description |
 |---------|-------------|
-| [dotfiles](https://github.com/davidbalishyan/dotfiles) | Personal dotfiles (zsh, neovim, tmux, etc.) |
-| [m4a2mp3](https://github.com/davidbalishyan/m4a2mp3) | Batch `.m4a` to `.mp3` converter using FFmpeg |
-| [watch.sh](https://github.com/davidbalishyan/watch.sh) | File watcher that reruns a command on file changes |
-| [installers](https://github.com/davidbalishyan/installers) | One-liner installer scripts for various apps |
-| [min.zsh](https://github.com/davidbalishyan/min.zsh) | Minimal zsh theme |
-| [zsh-dir](https://github.com/davidbalishyan/zsh-dir) | Zsh plugins, themes, and configuration |
+| [dotfiles](https://github.com/DavidBalishyan/dotfiles) | My dotfiles repository |
+| [installers](https://github.com/DavidBalishyan/installers) | installer scripts for some apps to save time! |
+| [m4a2mp3](https://github.com/DavidBalishyan/m4a2mp3) | A tool for converting .m4a audio files to .mp3 |
+| [min.zsh](https://github.com/DavidBalishyan/min.zsh) | A minimal zsh theme |
+| [robbyrussel.zsh](https://github.com/DavidBalishyan/robbyrussel.zsh) | The zsh robbyrussel theme made standalone (with no external dependanies on plugins) |
+| [simple.zsh](https://github.com/DavidBalishyan/simple.zsh) | A simple zsh theme. |
+| [watch.sh](https://github.com/DavidBalishyan/watch.sh) | A small Bash utility that reruns a command when files change. |
+| [zsh-dir](https://github.com/DavidBalishyan/zsh-dir) | My zsh directory (plugins, themes, etc.) |
 
 ### Go
+
 | Project | Description |
 |---------|-------------|
-| [iconlib-go](https://github.com/davidbalishyan/iconlib-go) | Icon library API rewritten in Go |
+| [iconlib-go](https://github.com/DavidBalishyan/iconlib-go) | Go rewrite of iconlib API. Original - https://github.com/DavidBalishyan/iconlib-api |
 
 ### Other
+
 | Project | Description |
 |---------|-------------|
-| [math-in-music](https://github.com/davidbalishyan/math-in-music) | Academic paper on mathematical foundations of musical harmony (LaTeX) |
-| [blog](https://github.com/davidbalishyan/blog) | Personal blog with Gruvbox Dark aesthetic (Jekyll) |
-| [iconlib-api](https://github.com/davidbalishyan/iconlib-api) | Icon library REST API (Node.js) |
-| [nvim.bak](https://github.com/davidbalishyan/nvim.bak) | Old Neovim configuration backup |
-| [wallpapers](https://github.com/davidbalishyan/wallpapers) | Collection of desktop wallpapers |
+| [c_referance](https://github.com/DavidBalishyan/c_referance) | A referance for the C standard library |
+| [chat-app-php](https://github.com/DavidBalishyan/chat-app-php) | A simple chat application written using the php programming language |
+| [cinema-app-php](https://github.com/DavidBalishyan/cinema-app-php) | A simple Cinema platform written in PHP |
+| [cinematique](https://github.com/DavidBalishyan/cinematique) |  |
+| [crud-php-oop](https://github.com/DavidBalishyan/crud-php-oop) | CRUD application using php and object-oriented-programming |
+| [e.php](https://github.com/DavidBalishyan/e.php) | Some PHP excersises |
+| [flapper-bird](https://github.com/DavidBalishyan/flapper-bird) | A flappy bird clone made in lua using Love2D |
+| [login-register-php](https://github.com/DavidBalishyan/login-register-php) | login-register-php app for testing vulnerability |
+| [math-in-music](https://github.com/DavidBalishyan/math-in-music) | A Paper about math in music |
+| [mid-autumn-festival-presention](https://github.com/DavidBalishyan/mid-autumn-festival-presention) | 关于中秋节的介绍 |
+| [nvim.bak](https://github.com/DavidBalishyan/nvim.bak) | My old neovim configuration (the new one is in my dotfiles) |
+| [php-excersises](https://github.com/DavidBalishyan/php-excersises) |  |
+| [php-mysql-example](https://github.com/DavidBalishyan/php-mysql-example) | Example on how to get and save images in database |
+| [send-mails-php](https://github.com/DavidBalishyan/send-mails-php) | How to send e-mail messages with php |
+| [social-php](https://github.com/DavidBalishyan/social-php) | Social app like facebook written in pure php. No framework |
+| [TinyC-test](https://github.com/DavidBalishyan/TinyC-test) | Code written in TinyC to make sure implementation works |
+| [wallpapers](https://github.com/DavidBalishyan/wallpapers) | All of my desktop/laptop wallpapers |
+| [windows-tools](https://github.com/DavidBalishyan/windows-tools) | Some useful windows tools |
