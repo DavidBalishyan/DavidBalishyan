@@ -160,44 +160,7 @@
 
 <h2 align="left">Projects</h2>
 
-### Rust
-| Project | Description |
-|---------|-------------|
-| [betterfetch](https://github.com/davidbalishyan/betterfetch) | Lightweight system fetch tool, a modern neofetch alternative |
-| [miniedit](https://github.com/davidbalishyan/miniedit) | Minimal terminal text editor with cursor navigation and file I/O |
-| [TinyC](https://github.com/davidbalishyan/TinyC) | Simple C-style language interpreter written in Rust |
-
-### C
-| Project | Description |
-|---------|-------------|
-| [cfmt](https://github.com/davidbalishyan/cfmt) | Fast, modular C code formatter with no external dependencies |
-| [clibx](https://github.com/davidbalishyan/clibx) | Header-only C utility library (strings, arrays, math, memory) |
-| [cutils](https://github.com/davidbalishyan/cutils) | From-scratch reimplementation of GNU coreutils |
-
-### Web
-| Project | Description |
-|---------|-------------|
-| [davidbalishyan.github.io](https://github.com/davidbalishyan/davidbalishyan.github.io) | Personal portfolio & hub with smart redirects (Svelte 5, TypeScript) |
-| [my-portfolio](https://github.com/davidbalishyan/my-portfolio) | Portfolio built with React 18, Tailwind CSS, Redux Toolkit |
-| [real-time-chat](https://github.com/davidbalishyan/real-time-chat) | Full-stack chat app with WebSockets, JWT auth, Redis (Express, TypeScript) |
-
-### Python
-| Project | Description |
-|---------|-------------|
-| [makeover](https://github.com/davidbalishyan/makeover) | Python build system wrapper, a cleaner Make alternative |
-| [manimations](https://github.com/davidbalishyan/manimations) | Mathematical animations with Manim Community library |
-
-### Bash
-| Project | Description |
-|---------|-------------|
-| [namaskar](https://github.com/davidbalishyan/namaskar) | Minimal, fast neofetch alternative |
-| [m4a2mp3](https://github.com/davidbalishyan/m4a2mp3) | Batch `.m4a` to `.mp3` converter using FFmpeg |
-
-### Other
-| Project | Description |
-|---------|-------------|
-| [math-in-music](https://github.com/davidbalishyan/math-in-music) | Academic paper on mathematical foundations of musical harmony (LaTeX) |
-| [blog](https://github.com/davidbalishyan/blog) | Personal blog with Gruvbox Dark aesthetic (Jekyll) |
+> See all my projects in [PROJECTS.md](./PROJECTS.md)
 
 ###
 
