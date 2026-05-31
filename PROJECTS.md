@@ -80,16 +80,18 @@
 | [makeover](https://github.com/DavidBalishyan/makeover) | A GNU Make alternative designed to be user-friendly and have simple syntax |
 | [manimations](https://github.com/DavidBalishyan/manimations) | Examples using the Manim Animation library in python |
 | [pyhello](https://github.com/DavidBalishyan/pyhello) | Theese are a set of mini python programs to help you learn the basics of python |
-| [PyML](https://github.com/DavidBalishyan/PyML) | The final project for a machine learning project at Tumo center of creative technologies |
+| [PyML](https://github.com/DavidBalishyan/PyML) | The final project for a machine learning lab at Tumo center of creative technologies |
 | [python-automations](https://github.com/DavidBalishyan/python-automations) | Automations using python |
 | [python-chatbot](https://github.com/DavidBalishyan/python-chatbot) | A local AI chatbot app written in python |
 | [python-olympiad](https://github.com/DavidBalishyan/python-olympiad) | Olympiad held by DIGI.code() in Armenia [Solutions] |
+| [python-olympiad-2](https://github.com/DavidBalishyan/python-olympiad-2) | How I've prepared for the 2nd round of the DIGI.code python olympiad |
 | [PyWeather](https://github.com/DavidBalishyan/PyWeather) | A weather data analysis project using Python and The Pandas library |
 
 ### Shell / Bash
 
 | Project | Description |
 |---------|-------------|
+| [board.bash](https://github.com/DavidBalishyan/board.bash) | A pure-bash library for colors, formatting, user prompts, progress bars, logging, and other stuff that makes command-line scripts not look like they were written in 1985. |
 | [dotfiles](https://github.com/DavidBalishyan/dotfiles) | My dotfiles repository |
 | [installers](https://github.com/DavidBalishyan/installers) | installer scripts for some apps to save time! |
 | [m4a2mp3](https://github.com/DavidBalishyan/m4a2mp3) | A tool for converting .m4a audio files to .mp3 |
@@ -117,7 +119,7 @@
 | [e.php](https://github.com/DavidBalishyan/e.php) | Some PHP excersises |
 | [flapper-bird](https://github.com/DavidBalishyan/flapper-bird) | A flappy bird clone made in lua using Love2D |
 | [login-register-php](https://github.com/DavidBalishyan/login-register-php) | login-register-php app for testing vulnerability |
-| [math-in-music](https://github.com/DavidBalishyan/math-in-music) | A Paper about math in music |
+| [math-in-music](https://github.com/DavidBalishyan/math-in-music) | A scientific paper explaining how mathematics describes music and how mathematics is used in music. |
 | [mid-autumn-festival-presention](https://github.com/DavidBalishyan/mid-autumn-festival-presention) | 关于中秋节的介绍 |
 | [nvim.bak](https://github.com/DavidBalishyan/nvim.bak) | My old neovim configuration (the new one is in my dotfiles) |
 | [php-excersises](https://github.com/DavidBalishyan/php-excersises) |  |
