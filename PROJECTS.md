@@ -17,6 +17,8 @@
 
 | Project | Description |
 |---------|-------------|
+| [arduio](https://github.com/DavidBalishyan/arduio) |  |
+| [brash](https://github.com/DavidBalishyan/brash) | A fork of bash-5.3 to add some nice features |
 | [C-Chat](https://github.com/DavidBalishyan/C-Chat) | Chat app in The C programming language |
 | [calgo](https://github.com/DavidBalishyan/calgo) | Some algorithms implemented in C |
 | [cfmt](https://github.com/DavidBalishyan/cfmt) | A C code formatter writen in C with the help of GenAI |
@@ -24,8 +26,7 @@
 | [cutils](https://github.com/DavidBalishyan/cutils) | Simple rewrite of some GNU coreutils, just for fun |
 | [myshell](https://github.com/DavidBalishyan/myshell) | A simple shell built as a coding challange |
 | [smart_home](https://github.com/DavidBalishyan/smart_home) | The 2nd place project on the AESA 24th annual science olympiad |
-| [st](https://github.com/DavidBalishyan/st) | A mirror of st (suckless terminal) |
-| [st-custom](https://github.com/DavidBalishyan/st-custom) | My custom build of the suckless terminal |
+| [st](https://github.com/DavidBalishyan/st) | An unofficial mirror of st (suckless terminal) |
 
 ### Web
 
@@ -54,7 +55,6 @@
 | [notes-fullstack](https://github.com/DavidBalishyan/notes-fullstack) | Notes application using react, express, MySQL |
 | [page-react-repo](https://github.com/DavidBalishyan/page-react-repo) |  |
 | [pokeimg](https://github.com/DavidBalishyan/pokeimg) |  |
-| [quizz-react](https://github.com/DavidBalishyan/quizz-react) | Quizz app made using react js |
 | [real-time-chat](https://github.com/DavidBalishyan/real-time-chat) | A real time chat app for a workshop at TUMO center Armenia |
 | [store](https://github.com/DavidBalishyan/store) | This is a store website written in HTML CSS JS |
 | [store-mern](https://github.com/DavidBalishyan/store-mern) | Product store using the MERN stack |
@@ -82,7 +82,6 @@
 | [pyhello](https://github.com/DavidBalishyan/pyhello) | Theese are a set of mini python programs to help you learn the basics of python |
 | [PyML](https://github.com/DavidBalishyan/PyML) | The final project for a machine learning lab at Tumo center of creative technologies |
 | [python-automations](https://github.com/DavidBalishyan/python-automations) | Automations using python |
-| [python-chatbot](https://github.com/DavidBalishyan/python-chatbot) | A local AI chatbot app written in python |
 | [python-olympiad](https://github.com/DavidBalishyan/python-olympiad) | Olympiad held by DIGI.code() in Armenia [Solutions] |
 | [python-olympiad-2](https://github.com/DavidBalishyan/python-olympiad-2) | How I've prepared for the 2nd round of the DIGI.code python olympiad |
 | [PyWeather](https://github.com/DavidBalishyan/PyWeather) | A weather data analysis project using Python and The Pandas library |
