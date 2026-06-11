@@ -165,6 +165,44 @@
 ###
 
 <!-- LATEST_REPOS:START -->
+<h2 align="left">Latest Repositories</h2>
+
+<table>
+  <tr><td width="50%" align="center" style="padding: 12px;">
+      <a href="https://github.com/DavidBalishyan/sdltimer"><b>sdltimer</b></a>
+      <br><sub><i>An SDL3-based timer app in C</i></sub>
+      <br><br>
+      <img src="https://img.shields.io/github/stars/DavidBalishyan/sdltimer?style=social" alt="Stars">
+      <img src="https://img.shields.io/github/forks/DavidBalishyan/sdltimer?style=social" alt="Forks">
+      <br><img src="https://img.shields.io/badge/C-555555?style=flat" alt="C">
+    </td>
+    <td width="50%" align="center" style="padding: 12px;">
+      <a href="https://github.com/DavidBalishyan/arduio"><b>arduio</b></a>
+      
+      <br><br>
+      <img src="https://img.shields.io/github/stars/DavidBalishyan/arduio?style=social" alt="Stars">
+      <img src="https://img.shields.io/github/forks/DavidBalishyan/arduio?style=social" alt="Forks">
+      <br><img src="https://img.shields.io/badge/C++-f34b7d?style=flat" alt="C++">
+    </td>
+  </tr>
+  <tr><td width="50%" align="center" style="padding: 12px;">
+      <a href="https://github.com/DavidBalishyan/dotfiles"><b>dotfiles</b></a>
+      <br><sub><i>My dotfiles repository</i></sub>
+      <br><br>
+      <img src="https://img.shields.io/github/stars/DavidBalishyan/dotfiles?style=social" alt="Stars">
+      <img src="https://img.shields.io/github/forks/DavidBalishyan/dotfiles?style=social" alt="Forks">
+      <br><img src="https://img.shields.io/badge/Shell-89e051?style=flat" alt="Shell">
+    </td>
+    <td width="50%" align="center" style="padding: 12px;">
+      <a href="https://github.com/DavidBalishyan/cutils"><b>cutils</b></a>
+      <br><sub><i>Simple rewrite of some GNU coreutils, just for fun</i></sub>
+      <br><br>
+      <img src="https://img.shields.io/github/stars/DavidBalishyan/cutils?style=social" alt="Stars">
+      <img src="https://img.shields.io/github/forks/DavidBalishyan/cutils?style=social" alt="Forks">
+      <br><img src="https://img.shields.io/badge/C-555555?style=flat" alt="C">
+    </td>
+  </tr>
+</table>
 <!-- LATEST_REPOS:END -->
 
 <h2 align="center">Scan to Visit</h2>
