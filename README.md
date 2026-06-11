@@ -164,6 +164,9 @@
 
 ###
 
+<!-- LATEST_REPOS:START -->
+<!-- LATEST_REPOS:END -->
+
 <h2 align="center">Scan to Visit</h2>
 
 <table align="center">
