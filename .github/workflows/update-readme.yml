@@ -45,12 +45,11 @@ jobs:
 
             const rows = [];
             for (let i = 0; i < latest.length; i += 2) {
-              const cells = latest.slice(i, i + 2).map(r => {
+              const chunk = latest.slice(i, i + 2);
+              const cells = chunk.map(r => {
                 const desc = r.description ? r.description.split('\n')[0].trim() : '';
                 const lang = r.language || '';
                 const color = langColors[lang] || '#666';
-                const stars = r.stargazers_count;
-                const forks = r.forks_count;
                 return `<td width="50%" align="center" style="padding: 12px;">
                   <a href="${r.html_url}"><b>${esc(r.name)}</b></a>
                   ${desc ? `<br><sub><i>${esc(desc)}</i></sub>` : ''}
@@ -60,7 +59,9 @@ jobs:
                   ${lang ? `<br><img src="https://img.shields.io/badge/${esc(lang)}-${color.slice(1)}?style=flat" alt="${esc(lang)}">` : ''}
                 </td>`;
               });
-              rows.push('  <tr>' + cells.join('\n    ') + '\n  </tr>');
+              const rowspan = chunk.length === 1 ? ' colspan="2"' : '';
+              const inner = cells.join('\n    ');
+              rows.push('  <tr>' + inner.replace('<td', `<td${rowspan}`) + '\n  </tr>');
             }
 
             const section = [
