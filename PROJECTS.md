@@ -17,14 +17,15 @@
 
 | Project | Description |
 |---------|-------------|
-| [arduio](https://github.com/DavidBalishyan/arduio) |  |
-| [brash](https://github.com/DavidBalishyan/brash) | A fork of bash-5.3 to add some nice features |
+| [arduio](https://github.com/DavidBalishyan/arduio) | A cycle-accurate Arduino Uno simulator written in C++ |
 | [C-Chat](https://github.com/DavidBalishyan/C-Chat) | Chat app in The C programming language |
 | [calgo](https://github.com/DavidBalishyan/calgo) | Some algorithms implemented in C |
+| [cboomer](https://github.com/DavidBalishyan/cboomer) | C rewrite of tsoding/boomer |
 | [cfmt](https://github.com/DavidBalishyan/cfmt) | A C code formatter writen in C with the help of GenAI |
 | [clibx](https://github.com/DavidBalishyan/clibx) | A small C utility library with common macros and helper functions designed to simplify everyday C development tasks. |
 | [cutils](https://github.com/DavidBalishyan/cutils) | Simple rewrite of some GNU coreutils, just for fun |
 | [myshell](https://github.com/DavidBalishyan/myshell) | A simple shell built as a coding challange |
+| [sdltimer](https://github.com/DavidBalishyan/sdltimer) | An SDL3-based timer app in C |
 | [smart_home](https://github.com/DavidBalishyan/smart_home) | The 2nd place project on the AESA 24th annual science olympiad |
 | [st](https://github.com/DavidBalishyan/st) | An unofficial mirror of st (suckless terminal) |
 
@@ -50,8 +51,7 @@
 | [helloPc](https://github.com/DavidBalishyan/helloPc) | This is a website |
 | [iconlib-api](https://github.com/DavidBalishyan/iconlib-api) | iconlib is an API for icons [newer golang rewrite - https://github.com/DavidBalishyan/iconlib-go] |
 | [js-turtle](https://github.com/DavidBalishyan/js-turtle) | Turtle graphics for javasctipt |
-| [manpages](https://github.com/DavidBalishyan/manpages) | Basically every manpage on my system dumped on the web |
-| [modern-tictactoe](https://github.com/DavidBalishyan/modern-tictactoe) |  |
+| [manpages](https://github.com/DavidBalishyan/manpages) | Some manpages on the web |
 | [notes-fullstack](https://github.com/DavidBalishyan/notes-fullstack) | Notes application using react, express, MySQL |
 | [page-react-repo](https://github.com/DavidBalishyan/page-react-repo) |  |
 | [pokeimg](https://github.com/DavidBalishyan/pokeimg) |  |
@@ -81,7 +81,6 @@
 | [manimations](https://github.com/DavidBalishyan/manimations) | Examples using the Manim Animation library in python |
 | [pyhello](https://github.com/DavidBalishyan/pyhello) | Theese are a set of mini python programs to help you learn the basics of python |
 | [PyML](https://github.com/DavidBalishyan/PyML) | The final project for a machine learning lab at Tumo center of creative technologies |
-| [python-automations](https://github.com/DavidBalishyan/python-automations) | Automations using python |
 | [python-olympiad](https://github.com/DavidBalishyan/python-olympiad) | Olympiad held by DIGI.code() in Armenia [Solutions] |
 | [python-olympiad-2](https://github.com/DavidBalishyan/python-olympiad-2) | How I've prepared for the 2nd round of the DIGI.code python olympiad |
 | [PyWeather](https://github.com/DavidBalishyan/PyWeather) | A weather data analysis project using Python and The Pandas library |
