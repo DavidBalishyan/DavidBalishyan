@@ -171,23 +171,14 @@
 
 <table>
   <tr><td width="50%" align="center" style="padding: 12px;">
-      <a href="https://github.com/DavidBalishyan/manpages"><b>manpages</b></a>
-      <br><sub><i>Some manpages on the web</i></sub>
+      <a href="https://github.com/DavidBalishyan/xc"><b>xc</b></a>
+      <br><sub><i>A modern rewrite of https://eza.rocks in The C programming language **NOT FINISHED**</i></sub>
       <br><br>
-      <img src="https://img.shields.io/github/stars/DavidBalishyan/manpages?style=social" alt="Stars">
-      <img src="https://img.shields.io/github/forks/DavidBalishyan/manpages?style=social" alt="Forks">
-      <br><img src="https://img.shields.io/badge/HTML-e34c26?style=flat" alt="HTML">
-    </td>
-    <td width="50%" align="center" style="padding: 12px;">
-      <a href="https://github.com/DavidBalishyan/sdltimer"><b>sdltimer</b></a>
-      <br><sub><i>An SDL3-based timer app in C</i></sub>
-      <br><br>
-      <img src="https://img.shields.io/github/stars/DavidBalishyan/sdltimer?style=social" alt="Stars">
-      <img src="https://img.shields.io/github/forks/DavidBalishyan/sdltimer?style=social" alt="Forks">
+      <img src="https://img.shields.io/github/stars/DavidBalishyan/xc?style=social" alt="Stars">
+      <img src="https://img.shields.io/github/forks/DavidBalishyan/xc?style=social" alt="Forks">
       <br><img src="https://img.shields.io/badge/C-555555?style=flat" alt="C">
     </td>
-  </tr>
-  <tr><td width="50%" align="center" style="padding: 12px;">
+    <td width="50%" align="center" style="padding: 12px;">
       <a href="https://github.com/DavidBalishyan/cboomer"><b>cboomer</b></a>
       <br><sub><i>C rewrite of tsoding/boomer</i></sub>
       <br><br>
@@ -195,13 +186,22 @@
       <img src="https://img.shields.io/github/forks/DavidBalishyan/cboomer?style=social" alt="Forks">
       <br><img src="https://img.shields.io/badge/C-555555?style=flat" alt="C">
     </td>
-    <td width="50%" align="center" style="padding: 12px;">
-      <a href="https://github.com/DavidBalishyan/cutils"><b>cutils</b></a>
-      <br><sub><i>Simple rewrite of some GNU coreutils, just for fun</i></sub>
+  </tr>
+  <tr><td width="50%" align="center" style="padding: 12px;">
+      <a href="https://github.com/DavidBalishyan/blog"><b>blog</b></a>
+      <br><sub><i>My personal blog</i></sub>
       <br><br>
-      <img src="https://img.shields.io/github/stars/DavidBalishyan/cutils?style=social" alt="Stars">
-      <img src="https://img.shields.io/github/forks/DavidBalishyan/cutils?style=social" alt="Forks">
-      <br><img src="https://img.shields.io/badge/C-555555?style=flat" alt="C">
+      <img src="https://img.shields.io/github/stars/DavidBalishyan/blog?style=social" alt="Stars">
+      <img src="https://img.shields.io/github/forks/DavidBalishyan/blog?style=social" alt="Forks">
+      <br><img src="https://img.shields.io/badge/SCSS-c6538c?style=flat" alt="SCSS">
+    </td>
+    <td width="50%" align="center" style="padding: 12px;">
+      <a href="https://github.com/DavidBalishyan/dotfiles"><b>dotfiles</b></a>
+      <br><sub><i>My dotfiles repository</i></sub>
+      <br><br>
+      <img src="https://img.shields.io/github/stars/DavidBalishyan/dotfiles?style=social" alt="Stars">
+      <img src="https://img.shields.io/github/forks/DavidBalishyan/dotfiles?style=social" alt="Forks">
+      <br><img src="https://img.shields.io/badge/Shell-89e051?style=flat" alt="Shell">
     </td>
   </tr>
 </table>
