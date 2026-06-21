@@ -28,6 +28,7 @@
 | [sdltimer](https://github.com/DavidBalishyan/sdltimer) | An SDL3-based timer app in C |
 | [smart_home](https://github.com/DavidBalishyan/smart_home) | The 2nd place project on the AESA 24th annual science olympiad |
 | [st](https://github.com/DavidBalishyan/st) | An unofficial mirror of st (suckless terminal) |
+| [xc](https://github.com/DavidBalishyan/xc) | A modern rewrite of https://eza.rocks in The C programming language **NOT FINISHED** |
 
 ### Web
 
@@ -38,13 +39,10 @@
 | [button](https://github.com/DavidBalishyan/button) | Just a button |
 | [Calculator](https://github.com/DavidBalishyan/Calculator) | Working Calculator using HTML CSS and Javascript |
 | [chatdeck](https://github.com/DavidBalishyan/chatdeck) | A web app to see your stream chat |
-| [Coffee-machine-js](https://github.com/DavidBalishyan/Coffee-machine-js) |  |
 | [contact-app](https://github.com/DavidBalishyan/contact-app) | A simple full-stack contact app. For backend Python with Flask. For frontend JS with React. |
 | [counter-app-react](https://github.com/DavidBalishyan/counter-app-react) | This is a simple counter web app created in react js |
 | [create-d4](https://github.com/DavidBalishyan/create-d4) | :zap: A modern scaffolding CLI to kickstart React projects with Vite or Rsbuild.  Includes options for Tailwind CSS v4, state management, routing, linting, and more. |
-| [creative-personal-website](https://github.com/DavidBalishyan/creative-personal-website) | A Creative, beautiful personal website built entirely by Generative Artifical Intelegance (GenAI) |
 | [davidbalishyan.github.io](https://github.com/DavidBalishyan/davidbalishyan.github.io) | My personal website |
-| [duckduckgo-ui](https://github.com/DavidBalishyan/duckduckgo-ui) | A custom UI for the duckduckgo search engine |
 | [flip-a-coin](https://github.com/DavidBalishyan/flip-a-coin) | Flip-a-coin website |
 | [fungames-nodejs](https://github.com/DavidBalishyan/fungames-nodejs) | 3 fun games in nodejs |
 | [gh](https://github.com/DavidBalishyan/gh) | A way to just read the files in a github repository using just simple web technologies and the github api |
@@ -60,15 +58,12 @@
 | [store-mern](https://github.com/DavidBalishyan/store-mern) | Product store using the MERN stack |
 | [system-monitor-web](https://github.com/DavidBalishyan/system-monitor-web) | A simple web app focused on creating a nice and simple design |
 | [Tictactoe](https://github.com/DavidBalishyan/Tictactoe) | Tictactoe app |
-| [todo](https://github.com/DavidBalishyan/todo) | Todo list app written in javascript no-libreries |
 | [todo-dnd](https://github.com/DavidBalishyan/todo-dnd) |  |
 | [todo-react](https://github.com/DavidBalishyan/todo-react) | A simple Todo app created in react js |
 | [todo-react-best-ui](https://github.com/DavidBalishyan/todo-react-best-ui) | this is updated version of my todo-react repo, ui is better than the old on and it is not an added ui on older repo, it`s built from scratch! |
-| [toggle-button](https://github.com/DavidBalishyan/toggle-button) |  |
 | [users-managing-app-react](https://github.com/DavidBalishyan/users-managing-app-react) | Users managing app in React JS |
 | [weather-app](https://github.com/DavidBalishyan/weather-app) | A simple weather app using reactjs |
 | [webman](https://github.com/DavidBalishyan/webman) | A fast, web-based, open-source alternative to Postman - built with Typescript, Tailwind CSS, and Node.js. |
-| [Wikipedia-searcher](https://github.com/DavidBalishyan/Wikipedia-searcher) |  |
 | [world-generation-p5js](https://github.com/DavidBalishyan/world-generation-p5js) | world generation using p5.js |
 
 ### Python
@@ -109,7 +104,6 @@
 
 | Project | Description |
 |---------|-------------|
-| [c_referance](https://github.com/DavidBalishyan/c_referance) | A referance for the C standard library |
 | [chat-app-php](https://github.com/DavidBalishyan/chat-app-php) | A simple chat application written using the php programming language |
 | [cinema-app-php](https://github.com/DavidBalishyan/cinema-app-php) | A simple Cinema platform written in PHP |
 | [cinematique](https://github.com/DavidBalishyan/cinematique) |  |
