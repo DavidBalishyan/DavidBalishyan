@@ -1,5 +1,5 @@
 <h2 align="left">Projects</h2>
-test
+
 ### Rust
 
 | Project | Description |
@@ -111,8 +111,12 @@ test
 | [e.php](https://github.com/DavidBalishyan/e.php) | Some PHP excersises |
 | [flapper-bird](https://github.com/DavidBalishyan/flapper-bird) | A flappy bird clone made in lua using Love2D |
 | [login-register-php](https://github.com/DavidBalishyan/login-register-php) | login-register-php app for testing vulnerability |
+| [logo](https://github.com/DavidBalishyan/logo) | My logo(s), I use on the web |
 | [math-in-music](https://github.com/DavidBalishyan/math-in-music) | A scientific paper explaining how mathematics describes music and how mathematics is used in music. |
+| [md2html](https://github.com/DavidBalishyan/md2html) | A simple Markdown(GFM) to HTML converter |
 | [mid-autumn-festival-presention](https://github.com/DavidBalishyan/mid-autumn-festival-presention) | 关于中秋节的介绍 |
+| [nim-bigint](https://github.com/DavidBalishyan/nim-bigint) | Arbitrary-precision integer library for Nim. |
+| [nim-learning](https://github.com/DavidBalishyan/nim-learning) | Solutions of a certain set of problems implemented in Nim. WORK IN PROGRESS |
 | [nvim.bak](https://github.com/DavidBalishyan/nvim.bak) | My old neovim configuration (the new one is in my dotfiles) |
 | [php-excersises](https://github.com/DavidBalishyan/php-excersises) |  |
 | [php-mysql-example](https://github.com/DavidBalishyan/php-mysql-example) | Example on how to get and save images in database |
