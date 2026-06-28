@@ -165,49 +165,6 @@
 
 > See all my projects in [PROJECTS.md](./PROJECTS.md)
 
-###
-
-<!-- LATEST_REPOS:START -->
-<h2 align="left">Latest Repositories</h2>
-
-<table>
-  <tr><td width="50%" align="center" style="padding: 12px;">
-      <a href="https://github.com/DavidBalishyan/cboomer"><b>cboomer</b></a>
-      <br><sub><i>C rewrite of tsoding/boomer</i></sub>
-      <br><br>
-      <img src="https://img.shields.io/github/stars/DavidBalishyan/cboomer?style=social" alt="Stars">
-      <img src="https://img.shields.io/github/forks/DavidBalishyan/cboomer?style=social" alt="Forks">
-      <br><img src="https://img.shields.io/badge/C-555555?style=flat" alt="C">
-    </td>
-    <td width="50%" align="center" style="padding: 12px;">
-      <a href="https://github.com/DavidBalishyan/md2html"><b>md2html</b></a>
-      <br><sub><i>A simple Markdown(GFM) to HTML converter</i></sub>
-      <br><br>
-      <img src="https://img.shields.io/github/stars/DavidBalishyan/md2html?style=social" alt="Stars">
-      <img src="https://img.shields.io/github/forks/DavidBalishyan/md2html?style=social" alt="Forks">
-      <br><img src="https://img.shields.io/badge/Nim-666?style=flat" alt="Nim">
-    </td>
-  </tr>
-  <tr><td width="50%" align="center" style="padding: 12px;">
-      <a href="https://github.com/DavidBalishyan/logo"><b>logo</b></a>
-      <br><sub><i>My logo(s), I use on the web</i></sub>
-      <br><br>
-      <img src="https://img.shields.io/github/stars/DavidBalishyan/logo?style=social" alt="Stars">
-      <img src="https://img.shields.io/github/forks/DavidBalishyan/logo?style=social" alt="Forks">
-      
-    </td>
-    <td width="50%" align="center" style="padding: 12px;">
-      <a href="https://github.com/DavidBalishyan/nim-bigint"><b>nim-bigint</b></a>
-      <br><sub><i>Arbitrary-precision integer library for Nim.</i></sub>
-      <br><br>
-      <img src="https://img.shields.io/github/stars/DavidBalishyan/nim-bigint?style=social" alt="Stars">
-      <img src="https://img.shields.io/github/forks/DavidBalishyan/nim-bigint?style=social" alt="Forks">
-      <br><img src="https://img.shields.io/badge/Nim-666?style=flat" alt="Nim">
-    </td>
-  </tr>
-</table>
-<!-- LATEST_REPOS:END -->
-
 <h2 align="center">Scan to Visit</h2>
 
 <table align="center">
