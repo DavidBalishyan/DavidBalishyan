@@ -172,14 +172,6 @@
 
 <table>
   <tr><td width="50%" align="center" style="padding: 12px;">
-      <a href="https://github.com/DavidBalishyan/xc"><b>xc</b></a>
-      <br><sub><i>A modern rewrite of https://eza.rocks in The C programming language **NOT FINISHED**</i></sub>
-      <br><br>
-      <img src="https://img.shields.io/github/stars/DavidBalishyan/xc?style=social" alt="Stars">
-      <img src="https://img.shields.io/github/forks/DavidBalishyan/xc?style=social" alt="Forks">
-      <br><img src="https://img.shields.io/badge/C-555555?style=flat" alt="C">
-    </td>
-    <td width="50%" align="center" style="padding: 12px;">
       <a href="https://github.com/DavidBalishyan/cboomer"><b>cboomer</b></a>
       <br><sub><i>C rewrite of tsoding/boomer</i></sub>
       <br><br>
@@ -187,22 +179,30 @@
       <img src="https://img.shields.io/github/forks/DavidBalishyan/cboomer?style=social" alt="Forks">
       <br><img src="https://img.shields.io/badge/C-555555?style=flat" alt="C">
     </td>
+    <td width="50%" align="center" style="padding: 12px;">
+      <a href="https://github.com/DavidBalishyan/md2html"><b>md2html</b></a>
+      <br><sub><i>A simple Markdown(GFM) to HTML converter</i></sub>
+      <br><br>
+      <img src="https://img.shields.io/github/stars/DavidBalishyan/md2html?style=social" alt="Stars">
+      <img src="https://img.shields.io/github/forks/DavidBalishyan/md2html?style=social" alt="Forks">
+      <br><img src="https://img.shields.io/badge/Nim-666?style=flat" alt="Nim">
+    </td>
   </tr>
   <tr><td width="50%" align="center" style="padding: 12px;">
-      <a href="https://github.com/DavidBalishyan/blog"><b>blog</b></a>
-      <br><sub><i>My personal blog</i></sub>
+      <a href="https://github.com/DavidBalishyan/logo"><b>logo</b></a>
+      <br><sub><i>My logo(s), I use on the web</i></sub>
       <br><br>
-      <img src="https://img.shields.io/github/stars/DavidBalishyan/blog?style=social" alt="Stars">
-      <img src="https://img.shields.io/github/forks/DavidBalishyan/blog?style=social" alt="Forks">
-      <br><img src="https://img.shields.io/badge/SCSS-c6538c?style=flat" alt="SCSS">
+      <img src="https://img.shields.io/github/stars/DavidBalishyan/logo?style=social" alt="Stars">
+      <img src="https://img.shields.io/github/forks/DavidBalishyan/logo?style=social" alt="Forks">
+      
     </td>
     <td width="50%" align="center" style="padding: 12px;">
-      <a href="https://github.com/DavidBalishyan/dotfiles"><b>dotfiles</b></a>
-      <br><sub><i>My dotfiles repository</i></sub>
+      <a href="https://github.com/DavidBalishyan/nim-bigint"><b>nim-bigint</b></a>
+      <br><sub><i>Arbitrary-precision integer library for Nim.</i></sub>
       <br><br>
-      <img src="https://img.shields.io/github/stars/DavidBalishyan/dotfiles?style=social" alt="Stars">
-      <img src="https://img.shields.io/github/forks/DavidBalishyan/dotfiles?style=social" alt="Forks">
-      <br><img src="https://img.shields.io/badge/Shell-89e051?style=flat" alt="Shell">
+      <img src="https://img.shields.io/github/stars/DavidBalishyan/nim-bigint?style=social" alt="Stars">
+      <img src="https://img.shields.io/github/forks/DavidBalishyan/nim-bigint?style=social" alt="Forks">
+      <br><img src="https://img.shields.io/badge/Nim-666?style=flat" alt="Nim">
     </td>
   </tr>
 </table>
