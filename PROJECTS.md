@@ -6,6 +6,7 @@
 |---------|-------------|
 | [chat-client.rs](https://github.com/DavidBalishyan/chat-client.rs) | The client for https://github.com/DavidBalishyan/chat.rs |
 | [chat.rs](https://github.com/DavidBalishyan/chat.rs) | A local chat server written in rust |
+| [envforge](https://github.com/DavidBalishyan/envforge) | A way to manage development env(s) without containerization |
 | [lsr](https://github.com/DavidBalishyan/lsr) | A simple GNU ls replacement. |
 | [markdown-previewer-rust](https://github.com/DavidBalishyan/markdown-previewer-rust) | A web based markdown previewer. written in rust |
 | [miniedit](https://github.com/DavidBalishyan/miniedit) | A simple TUI text editor. Written in Rust |
@@ -28,7 +29,7 @@
 | [sdltimer](https://github.com/DavidBalishyan/sdltimer) | An SDL3-based timer app in C |
 | [smart_home](https://github.com/DavidBalishyan/smart_home) | The 2nd place project on the AESA 24th annual science olympiad |
 | [st](https://github.com/DavidBalishyan/st) | An unofficial mirror of st (suckless terminal) |
-| [xc](https://github.com/DavidBalishyan/xc) | A modern rewrite of https://eza.rocks in The C programming language **NOT FINISHED** |
+| [virtual-pet](https://github.com/DavidBalishyan/virtual-pet) | A PlatformIO virtual pet project for the M5stickC, Done at Tumo Center of creative technologies [ WORK IN PROGRESS ] |
 
 ### Web
 
@@ -37,10 +38,8 @@
 | [art-p5.js](https://github.com/DavidBalishyan/art-p5.js) | P5.js is an art and creative coding library. I wrote some code using it |
 | [blog](https://github.com/DavidBalishyan/blog) | My personal blog |
 | [button](https://github.com/DavidBalishyan/button) | Just a button |
-| [Calculator](https://github.com/DavidBalishyan/Calculator) | Working Calculator using HTML CSS and Javascript |
 | [chatdeck](https://github.com/DavidBalishyan/chatdeck) | A web app to see your stream chat |
 | [contact-app](https://github.com/DavidBalishyan/contact-app) | A simple full-stack contact app. For backend Python with Flask. For frontend JS with React. |
-| [counter-app-react](https://github.com/DavidBalishyan/counter-app-react) | This is a simple counter web app created in react js |
 | [create-d4](https://github.com/DavidBalishyan/create-d4) | :zap: A modern scaffolding CLI to kickstart React projects with Vite or Rsbuild.  Includes options for Tailwind CSS v4, state management, routing, linting, and more. |
 | [davidbalishyan.github.io](https://github.com/DavidBalishyan/davidbalishyan.github.io) | My personal website |
 | [flip-a-coin](https://github.com/DavidBalishyan/flip-a-coin) | Flip-a-coin website |
@@ -51,7 +50,7 @@
 | [js-turtle](https://github.com/DavidBalishyan/js-turtle) | Turtle graphics for javasctipt |
 | [manpages](https://github.com/DavidBalishyan/manpages) | Some manpages on the web |
 | [notes-fullstack](https://github.com/DavidBalishyan/notes-fullstack) | Notes application using react, express, MySQL |
-| [page-react-repo](https://github.com/DavidBalishyan/page-react-repo) |  |
+| [password-generator](https://github.com/DavidBalishyan/password-generator) | Nothing serious, just a simple project I did to remember core reactjs concepts |
 | [pokeimg](https://github.com/DavidBalishyan/pokeimg) |  |
 | [real-time-chat](https://github.com/DavidBalishyan/real-time-chat) | A real time chat app for a workshop at TUMO center Armenia |
 | [store](https://github.com/DavidBalishyan/store) | This is a store website written in HTML CSS JS |
@@ -59,9 +58,7 @@
 | [system-monitor-web](https://github.com/DavidBalishyan/system-monitor-web) | A simple web app focused on creating a nice and simple design |
 | [Tictactoe](https://github.com/DavidBalishyan/Tictactoe) | Tictactoe app |
 | [todo-dnd](https://github.com/DavidBalishyan/todo-dnd) |  |
-| [todo-react](https://github.com/DavidBalishyan/todo-react) | A simple Todo app created in react js |
 | [todo-react-best-ui](https://github.com/DavidBalishyan/todo-react-best-ui) | this is updated version of my todo-react repo, ui is better than the old on and it is not an added ui on older repo, it`s built from scratch! |
-| [users-managing-app-react](https://github.com/DavidBalishyan/users-managing-app-react) | Users managing app in React JS |
 | [weather-app](https://github.com/DavidBalishyan/weather-app) | A simple weather app using reactjs |
 | [webman](https://github.com/DavidBalishyan/webman) | A fast, web-based, open-source alternative to Postman - built with Typescript, Tailwind CSS, and Node.js. |
 | [world-generation-p5js](https://github.com/DavidBalishyan/world-generation-p5js) | world generation using p5.js |
@@ -92,6 +89,7 @@
 | [robbyrussel.zsh](https://github.com/DavidBalishyan/robbyrussel.zsh) | The zsh robbyrussel theme made standalone (with no external dependanies on plugins) |
 | [simple.zsh](https://github.com/DavidBalishyan/simple.zsh) | A simple zsh theme. |
 | [watch.sh](https://github.com/DavidBalishyan/watch.sh) | A small Bash utility that reruns a command when files change. |
+| [xfce4-terminal-tokyonight](https://github.com/DavidBalishyan/xfce4-terminal-tokyonight) | tokyonight theme for xfce terminal |
 | [zsh-dir](https://github.com/DavidBalishyan/zsh-dir) | My zsh directory (plugins, themes, etc.) |
 
 ### Go
@@ -115,13 +113,16 @@
 | [math-in-music](https://github.com/DavidBalishyan/math-in-music) | A scientific paper explaining how mathematics describes music and how mathematics is used in music. |
 | [md2html](https://github.com/DavidBalishyan/md2html) | A simple Markdown(GFM) to HTML converter |
 | [mid-autumn-festival-presention](https://github.com/DavidBalishyan/mid-autumn-festival-presention) | 关于中秋节的介绍 |
+| [neepers](https://github.com/DavidBalishyan/neepers) | A full Nim rewrite of tsoding/eepers using naylib |
 | [nim-bigint](https://github.com/DavidBalishyan/nim-bigint) | Arbitrary-precision integer library for Nim. |
 | [nim-learning](https://github.com/DavidBalishyan/nim-learning) | Solutions of a certain set of problems implemented in Nim. WORK IN PROGRESS |
 | [nvim.bak](https://github.com/DavidBalishyan/nvim.bak) | My old neovim configuration (the new one is in my dotfiles) |
+| [pascal-calc](https://github.com/DavidBalishyan/pascal-calc) | A simple GUI X11 calculator app in pascal |
 | [php-excersises](https://github.com/DavidBalishyan/php-excersises) |  |
 | [php-mysql-example](https://github.com/DavidBalishyan/php-mysql-example) | Example on how to get and save images in database |
 | [send-mails-php](https://github.com/DavidBalishyan/send-mails-php) | How to send e-mail messages with php |
 | [social-php](https://github.com/DavidBalishyan/social-php) | Social app like facebook written in pure php. No framework |
 | [TinyC-test](https://github.com/DavidBalishyan/TinyC-test) | Code written in TinyC to make sure implementation works |
+| [virtual-pet-guide](https://github.com/DavidBalishyan/virtual-pet-guide) | This repo consists of markdown files providing guidance/notes for building certain features on the virtual-pet project |
 | [wallpapers](https://github.com/DavidBalishyan/wallpapers) | All of my desktop/laptop wallpapers |
 | [windows-tools](https://github.com/DavidBalishyan/windows-tools) | Some useful windows tools |
