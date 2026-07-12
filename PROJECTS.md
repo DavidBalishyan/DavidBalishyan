@@ -4,6 +4,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [agent](https://github.com/DavidBalishyan/agent) | A simple AI agent written in rust w/ claude api |
 | [chat-client.rs](https://github.com/DavidBalishyan/chat-client.rs) | The client for https://github.com/DavidBalishyan/chat.rs |
 | [chat.rs](https://github.com/DavidBalishyan/chat.rs) | A local chat server written in rust |
 | [envforge](https://github.com/DavidBalishyan/envforge) | A way to manage development env(s) without containerization |
@@ -11,6 +12,7 @@
 | [markdown-previewer-rust](https://github.com/DavidBalishyan/markdown-previewer-rust) | A web based markdown previewer. written in rust |
 | [miniedit](https://github.com/DavidBalishyan/miniedit) | A simple TUI text editor. Written in Rust |
 | [rust-mini-projects](https://github.com/DavidBalishyan/rust-mini-projects) | Some mini project in Rust  |
+| [termem](https://github.com/DavidBalishyan/termem) | A terminal emulator written in Rust [ WORK IN PROGRESS ] |
 | [the-RT-stack](https://github.com/DavidBalishyan/the-RT-stack) | A web app example using React + Typescript + Rsbuild + Tokio |
 | [TinyC](https://github.com/DavidBalishyan/TinyC) | A C-style interpreted programming languge. Written in rust and the help of AI |
 
@@ -20,6 +22,7 @@
 |---------|-------------|
 | [arduio](https://github.com/DavidBalishyan/arduio) | A cycle-accurate Arduino Uno simulator written in C++ |
 | [C-Chat](https://github.com/DavidBalishyan/C-Chat) | Chat app in The C programming language |
+| [caffeinate](https://github.com/DavidBalishyan/caffeinate) | A Linux reimplementation of caffeinate(8) |
 | [calgo](https://github.com/DavidBalishyan/calgo) | Some algorithms implemented in C |
 | [cboomer](https://github.com/DavidBalishyan/cboomer) | C rewrite of tsoding/boomer |
 | [cfmt](https://github.com/DavidBalishyan/cfmt) | A C code formatter writen in C with the help of GenAI |
@@ -29,7 +32,7 @@
 | [sdltimer](https://github.com/DavidBalishyan/sdltimer) | An SDL3-based timer app in C |
 | [smart_home](https://github.com/DavidBalishyan/smart_home) | The 2nd place project on the AESA 24th annual science olympiad |
 | [st](https://github.com/DavidBalishyan/st) | An unofficial mirror of st (suckless terminal) |
-| [virtual-pet](https://github.com/DavidBalishyan/virtual-pet) | A PlatformIO virtual pet project for the M5stickC, Done at Tumo Center of creative technologies [ WORK IN PROGRESS ] |
+| [virtual-pet](https://github.com/DavidBalishyan/virtual-pet) | A PlatformIO virtual pet project for the M5stickC, Done at Tumo Center of creative technologies |
 
 ### Web
 
@@ -39,7 +42,6 @@
 | [blog](https://github.com/DavidBalishyan/blog) | My personal blog |
 | [button](https://github.com/DavidBalishyan/button) | Just a button |
 | [chatdeck](https://github.com/DavidBalishyan/chatdeck) | A web app to see your stream chat |
-| [contact-app](https://github.com/DavidBalishyan/contact-app) | A simple full-stack contact app. For backend Python with Flask. For frontend JS with React. |
 | [create-d4](https://github.com/DavidBalishyan/create-d4) | :zap: A modern scaffolding CLI to kickstart React projects with Vite or Rsbuild.  Includes options for Tailwind CSS v4, state management, routing, linting, and more. |
 | [davidbalishyan.github.io](https://github.com/DavidBalishyan/davidbalishyan.github.io) | My personal website |
 | [flip-a-coin](https://github.com/DavidBalishyan/flip-a-coin) | Flip-a-coin website |
@@ -53,13 +55,10 @@
 | [password-generator](https://github.com/DavidBalishyan/password-generator) | Nothing serious, just a simple project I did to remember core reactjs concepts |
 | [pokeimg](https://github.com/DavidBalishyan/pokeimg) |  |
 | [real-time-chat](https://github.com/DavidBalishyan/real-time-chat) | A real time chat app for a workshop at TUMO center Armenia |
-| [store](https://github.com/DavidBalishyan/store) | This is a store website written in HTML CSS JS |
 | [store-mern](https://github.com/DavidBalishyan/store-mern) | Product store using the MERN stack |
 | [system-monitor-web](https://github.com/DavidBalishyan/system-monitor-web) | A simple web app focused on creating a nice and simple design |
 | [Tictactoe](https://github.com/DavidBalishyan/Tictactoe) | Tictactoe app |
-| [todo-dnd](https://github.com/DavidBalishyan/todo-dnd) |  |
-| [todo-react-best-ui](https://github.com/DavidBalishyan/todo-react-best-ui) | this is updated version of my todo-react repo, ui is better than the old on and it is not an added ui on older repo, it`s built from scratch! |
-| [weather-app](https://github.com/DavidBalishyan/weather-app) | A simple weather app using reactjs |
+| [tumo-agent](https://github.com/DavidBalishyan/tumo-agent) | An AI agent built during the "Build your own AI agents" workshop at TUMO center of creative technologies  [ WORK IN PROGRESS ]  |
 | [webman](https://github.com/DavidBalishyan/webman) | A fast, web-based, open-source alternative to Postman - built with Typescript, Tailwind CSS, and Node.js. |
 | [world-generation-p5js](https://github.com/DavidBalishyan/world-generation-p5js) | world generation using p5.js |
 
@@ -88,6 +87,7 @@
 | [min.zsh](https://github.com/DavidBalishyan/min.zsh) | A minimal zsh theme |
 | [robbyrussel.zsh](https://github.com/DavidBalishyan/robbyrussel.zsh) | The zsh robbyrussel theme made standalone (with no external dependanies on plugins) |
 | [simple.zsh](https://github.com/DavidBalishyan/simple.zsh) | A simple zsh theme. |
+| [tmux-tokyonight](https://github.com/DavidBalishyan/tmux-tokyonight) | A tokyonight theme for tmux |
 | [watch.sh](https://github.com/DavidBalishyan/watch.sh) | A small Bash utility that reruns a command when files change. |
 | [xfce4-terminal-tokyonight](https://github.com/DavidBalishyan/xfce4-terminal-tokyonight) | tokyonight theme for xfce terminal |
 | [zsh-dir](https://github.com/DavidBalishyan/zsh-dir) | My zsh directory (plugins, themes, etc.) |
@@ -102,8 +102,8 @@
 
 | Project | Description |
 |---------|-------------|
+| [build-your-own-ai-agent](https://github.com/DavidBalishyan/build-your-own-ai-agent) | My notes from the build your own AI agent workshop at TUMO center of creative technologies |
 | [chat-app-php](https://github.com/DavidBalishyan/chat-app-php) | A simple chat application written using the php programming language |
-| [cinema-app-php](https://github.com/DavidBalishyan/cinema-app-php) | A simple Cinema platform written in PHP |
 | [cinematique](https://github.com/DavidBalishyan/cinematique) |  |
 | [crud-php-oop](https://github.com/DavidBalishyan/crud-php-oop) | CRUD application using php and object-oriented-programming |
 | [e.php](https://github.com/DavidBalishyan/e.php) | Some PHP excersises |
