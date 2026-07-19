@@ -48,6 +48,8 @@
   <img width="12" />
 <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=emacs" height="40" alt="emacs"/>
+  <img width="12" />
 <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim"/>
   <img width="12" />
 <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim"/>
