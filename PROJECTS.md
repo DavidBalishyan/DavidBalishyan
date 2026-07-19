@@ -12,7 +12,7 @@
 | [markdown-previewer-rust](https://github.com/DavidBalishyan/markdown-previewer-rust) | A web based markdown previewer. written in rust |
 | [miniedit](https://github.com/DavidBalishyan/miniedit) | A simple TUI text editor. Written in Rust |
 | [rust-mini-projects](https://github.com/DavidBalishyan/rust-mini-projects) | Some mini project in Rust  |
-| [termem](https://github.com/DavidBalishyan/termem) | A terminal emulator written in Rust [ WORK IN PROGRESS ] |
+| [termem](https://github.com/DavidBalishyan/termem) | A terminal emulator written in Rust [ EXPERIMENTAL ]  [ WORK IN PROGRESS ] |
 | [the-RT-stack](https://github.com/DavidBalishyan/the-RT-stack) | A web app example using React + Typescript + Rsbuild + Tokio |
 | [TinyC](https://github.com/DavidBalishyan/TinyC) | A C-style interpreted programming languge. Written in rust and the help of AI |
 
@@ -31,7 +31,8 @@
 | [myshell](https://github.com/DavidBalishyan/myshell) | A simple shell built as a coding challange |
 | [sdltimer](https://github.com/DavidBalishyan/sdltimer) | An SDL3-based timer app in C |
 | [smart_home](https://github.com/DavidBalishyan/smart_home) | The 2nd place project on the AESA 24th annual science olympiad |
-| [st](https://github.com/DavidBalishyan/st) | An unofficial mirror of st (suckless terminal) |
+| [st](https://github.com/DavidBalishyan/st) | My fork of st (suckless terminal) |
+| [tumo-agent](https://github.com/DavidBalishyan/tumo-agent) | An AI agent built during the "Build your own AI agents" workshop at TUMO center of creative technologies |
 | [virtual-pet](https://github.com/DavidBalishyan/virtual-pet) | A PlatformIO virtual pet project for the M5stickC, Done at Tumo Center of creative technologies |
 
 ### Web
@@ -58,7 +59,6 @@
 | [store-mern](https://github.com/DavidBalishyan/store-mern) | Product store using the MERN stack |
 | [system-monitor-web](https://github.com/DavidBalishyan/system-monitor-web) | A simple web app focused on creating a nice and simple design |
 | [Tictactoe](https://github.com/DavidBalishyan/Tictactoe) | Tictactoe app |
-| [tumo-agent](https://github.com/DavidBalishyan/tumo-agent) | An AI agent built during the "Build your own AI agents" workshop at TUMO center of creative technologies  [ WORK IN PROGRESS ]  |
 | [webman](https://github.com/DavidBalishyan/webman) | A fast, web-based, open-source alternative to Postman - built with Typescript, Tailwind CSS, and Node.js. |
 | [world-generation-p5js](https://github.com/DavidBalishyan/world-generation-p5js) | world generation using p5.js |
 
