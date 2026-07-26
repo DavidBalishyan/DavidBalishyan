@@ -4,7 +4,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [agent](https://github.com/DavidBalishyan/agent) | A simple AI agent written in rust w/ claude api |
+| [agent](https://github.com/DavidBalishyan/agent) | A simple AI agent written in rust based on the claude api |
 | [chat-client.rs](https://github.com/DavidBalishyan/chat-client.rs) | The client for https://github.com/DavidBalishyan/chat.rs |
 | [chat.rs](https://github.com/DavidBalishyan/chat.rs) | A local chat server written in rust |
 | [envforge](https://github.com/DavidBalishyan/envforge) | A way to manage development env(s) without containerization |
@@ -34,6 +34,7 @@
 | [st](https://github.com/DavidBalishyan/st) | My fork of st (suckless terminal) |
 | [tumo-agent](https://github.com/DavidBalishyan/tumo-agent) | An AI agent built during the "Build your own AI agents" workshop at TUMO center of creative technologies |
 | [virtual-pet](https://github.com/DavidBalishyan/virtual-pet) | A PlatformIO virtual pet project for the M5stickC, Done at Tumo Center of creative technologies |
+| [zig-build-c](https://github.com/DavidBalishyan/zig-build-c) | Trying out using zig's build system for building a C project |
 
 ### Web
 
@@ -52,7 +53,6 @@
 | [iconlib-api](https://github.com/DavidBalishyan/iconlib-api) | iconlib is an API for icons [newer golang rewrite - https://github.com/DavidBalishyan/iconlib-go] |
 | [js-turtle](https://github.com/DavidBalishyan/js-turtle) | Turtle graphics for javasctipt |
 | [manpages](https://github.com/DavidBalishyan/manpages) | Some manpages on the web |
-| [notes-fullstack](https://github.com/DavidBalishyan/notes-fullstack) | Notes application using react, express, MySQL |
 | [password-generator](https://github.com/DavidBalishyan/password-generator) | Nothing serious, just a simple project I did to remember core reactjs concepts |
 | [pokeimg](https://github.com/DavidBalishyan/pokeimg) |  |
 | [real-time-chat](https://github.com/DavidBalishyan/real-time-chat) | A real time chat app for a workshop at TUMO center Armenia |
@@ -60,6 +60,7 @@
 | [system-monitor-web](https://github.com/DavidBalishyan/system-monitor-web) | A simple web app focused on creating a nice and simple design |
 | [Tictactoe](https://github.com/DavidBalishyan/Tictactoe) | Tictactoe app |
 | [webman](https://github.com/DavidBalishyan/webman) | A fast, web-based, open-source alternative to Postman - built with Typescript, Tailwind CSS, and Node.js. |
+| [wishlist](https://github.com/DavidBalishyan/wishlist) | A mobile wishlist application built using react native during a workshop at TUMO center of creative technologies [ WORK IN PROGRESS ] |
 | [world-generation-p5js](https://github.com/DavidBalishyan/world-generation-p5js) | world generation using p5.js |
 
 ### Python
@@ -81,9 +82,9 @@
 | Project | Description |
 |---------|-------------|
 | [board.bash](https://github.com/DavidBalishyan/board.bash) | A pure-bash library for colors, formatting, user prompts, progress bars, logging, and other stuff that makes command-line scripts not look like they were written in 1985. |
-| [dotfiles](https://github.com/DavidBalishyan/dotfiles) | My dotfiles repository |
+| [dotfiles](https://github.com/DavidBalishyan/dotfiles) | My personal dotfiles repository |
 | [installers](https://github.com/DavidBalishyan/installers) | installer scripts for some apps to save time! |
-| [m4a2mp3](https://github.com/DavidBalishyan/m4a2mp3) | A tool for converting .m4a audio files to .mp3 |
+| [m4a2mp3](https://github.com/DavidBalishyan/m4a2mp3) | A tool for converting .m4a audio files to .mp3 easily using ffmpeg |
 | [min.zsh](https://github.com/DavidBalishyan/min.zsh) | A minimal zsh theme |
 | [robbyrussel.zsh](https://github.com/DavidBalishyan/robbyrussel.zsh) | The zsh robbyrussel theme made standalone (with no external dependanies on plugins) |
 | [simple.zsh](https://github.com/DavidBalishyan/simple.zsh) | A simple zsh theme. |
@@ -103,9 +104,9 @@
 | Project | Description |
 |---------|-------------|
 | [build-your-own-ai-agent](https://github.com/DavidBalishyan/build-your-own-ai-agent) | My notes from the build your own AI agent workshop at TUMO center of creative technologies |
-| [chat-app-php](https://github.com/DavidBalishyan/chat-app-php) | A simple chat application written using the php programming language |
 | [cinematique](https://github.com/DavidBalishyan/cinematique) |  |
 | [crud-php-oop](https://github.com/DavidBalishyan/crud-php-oop) | CRUD application using php and object-oriented-programming |
+| [dfm](https://github.com/DavidBalishyan/dfm) | A way to manage dotfiles |
 | [e.php](https://github.com/DavidBalishyan/e.php) | Some PHP excersises |
 | [flapper-bird](https://github.com/DavidBalishyan/flapper-bird) | A flappy bird clone made in lua using Love2D |
 | [login-register-php](https://github.com/DavidBalishyan/login-register-php) | login-register-php app for testing vulnerability |
@@ -121,7 +122,6 @@
 | [php-excersises](https://github.com/DavidBalishyan/php-excersises) |  |
 | [php-mysql-example](https://github.com/DavidBalishyan/php-mysql-example) | Example on how to get and save images in database |
 | [send-mails-php](https://github.com/DavidBalishyan/send-mails-php) | How to send e-mail messages with php |
-| [social-php](https://github.com/DavidBalishyan/social-php) | Social app like facebook written in pure php. No framework |
 | [TinyC-test](https://github.com/DavidBalishyan/TinyC-test) | Code written in TinyC to make sure implementation works |
 | [virtual-pet-guide](https://github.com/DavidBalishyan/virtual-pet-guide) | This repo consists of markdown files providing guidance/notes for building certain features on the virtual-pet project |
 | [wallpapers](https://github.com/DavidBalishyan/wallpapers) | All of my desktop/laptop wallpapers |
