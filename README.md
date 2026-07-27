@@ -42,8 +42,6 @@
 
 <h2 align="left">Editors, that I use</h2> 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode"/>
-  <img width="12" />
 <img src="https://skillicons.dev/icons?i=vscodium" height="40" alt="vscodium"/>
   <img width="12" />
 <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm"/>
@@ -57,9 +55,7 @@
 <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="pycharm"/>
-  <img width="12" />
-<img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion"/>
   <img width="12" />
 </div>
