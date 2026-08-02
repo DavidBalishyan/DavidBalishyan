@@ -43,6 +43,7 @@
 | [art-p5.js](https://github.com/DavidBalishyan/art-p5.js) | P5.js is an art and creative coding library. I wrote some code using it |
 | [blog](https://github.com/DavidBalishyan/blog) | My personal blog |
 | [button](https://github.com/DavidBalishyan/button) | Just a button |
+| [cboomer-website](https://github.com/DavidBalishyan/cboomer-website) | Website for https://github.com/DavidBalishyan/cboomer |
 | [chatdeck](https://github.com/DavidBalishyan/chatdeck) | A web app to see your stream chat |
 | [create-d4](https://github.com/DavidBalishyan/create-d4) | :zap: A modern scaffolding CLI to kickstart React projects with Vite or Rsbuild.  Includes options for Tailwind CSS v4, state management, routing, linting, and more. |
 | [davidbalishyan.github.io](https://github.com/DavidBalishyan/davidbalishyan.github.io) | My personal website |
@@ -55,12 +56,12 @@
 | [manpages](https://github.com/DavidBalishyan/manpages) | Some manpages on the web |
 | [password-generator](https://github.com/DavidBalishyan/password-generator) | Nothing serious, just a simple project I did to remember core reactjs concepts |
 | [pokeimg](https://github.com/DavidBalishyan/pokeimg) |  |
-| [real-time-chat](https://github.com/DavidBalishyan/real-time-chat) | A real time chat app for a workshop at TUMO center Armenia |
 | [store-mern](https://github.com/DavidBalishyan/store-mern) | Product store using the MERN stack |
 | [system-monitor-web](https://github.com/DavidBalishyan/system-monitor-web) | A simple web app focused on creating a nice and simple design |
 | [Tictactoe](https://github.com/DavidBalishyan/Tictactoe) | Tictactoe app |
 | [webman](https://github.com/DavidBalishyan/webman) | A fast, web-based, open-source alternative to Postman - built with Typescript, Tailwind CSS, and Node.js. |
-| [wishlist](https://github.com/DavidBalishyan/wishlist) | A mobile wishlist application built using react native during a workshop at TUMO center of creative technologies [ WORK IN PROGRESS ] |
+| [wishlist](https://github.com/DavidBalishyan/wishlist) | A mobile wishlist application built using react native during a workshop at TUMO center of creative technologies |
+| [wishlist-website](https://github.com/DavidBalishyan/wishlist-website) | The website for https://github.com/DavidBalishyan/wishlist |
 | [world-generation-p5js](https://github.com/DavidBalishyan/world-generation-p5js) | world generation using p5.js |
 
 ### Python
@@ -73,8 +74,6 @@
 | [manimations](https://github.com/DavidBalishyan/manimations) | Examples using the Manim Animation library in python |
 | [pyhello](https://github.com/DavidBalishyan/pyhello) | Theese are a set of mini python programs to help you learn the basics of python |
 | [PyML](https://github.com/DavidBalishyan/PyML) | The final project for a machine learning lab at Tumo center of creative technologies |
-| [python-olympiad](https://github.com/DavidBalishyan/python-olympiad) | Olympiad held by DIGI.code() in Armenia [Solutions] |
-| [python-olympiad-2](https://github.com/DavidBalishyan/python-olympiad-2) | How I've prepared for the 2nd round of the DIGI.code python olympiad |
 | [PyWeather](https://github.com/DavidBalishyan/PyWeather) | A weather data analysis project using Python and The Pandas library |
 
 ### Shell / Bash
@@ -89,7 +88,6 @@
 | [robbyrussel.zsh](https://github.com/DavidBalishyan/robbyrussel.zsh) | The zsh robbyrussel theme made standalone (with no external dependanies on plugins) |
 | [simple.zsh](https://github.com/DavidBalishyan/simple.zsh) | A simple zsh theme. |
 | [tmux-tokyonight](https://github.com/DavidBalishyan/tmux-tokyonight) | A tokyonight theme for tmux |
-| [watch.sh](https://github.com/DavidBalishyan/watch.sh) | A small Bash utility that reruns a command when files change. |
 | [xfce4-terminal-tokyonight](https://github.com/DavidBalishyan/xfce4-terminal-tokyonight) | tokyonight theme for xfce terminal |
 | [zsh-dir](https://github.com/DavidBalishyan/zsh-dir) | My zsh directory (plugins, themes, etc.) |
 
@@ -121,7 +119,9 @@
 | [pascal-calc](https://github.com/DavidBalishyan/pascal-calc) | A simple GUI X11 calculator app in pascal |
 | [php-excersises](https://github.com/DavidBalishyan/php-excersises) |  |
 | [php-mysql-example](https://github.com/DavidBalishyan/php-mysql-example) | Example on how to get and save images in database |
+| [pomodoro](https://github.com/DavidBalishyan/pomodoro) | A simple CLI/TUI pomodoro timer written in Nim |
 | [send-mails-php](https://github.com/DavidBalishyan/send-mails-php) | How to send e-mail messages with php |
+| [social-php](https://github.com/DavidBalishyan/social-php) | Social app like facebook written in pure php. No framework |
 | [TinyC-test](https://github.com/DavidBalishyan/TinyC-test) | Code written in TinyC to make sure implementation works |
 | [virtual-pet-guide](https://github.com/DavidBalishyan/virtual-pet-guide) | This repo consists of markdown files providing guidance/notes for building certain features on the virtual-pet project |
 | [wallpapers](https://github.com/DavidBalishyan/wallpapers) | All of my desktop/laptop wallpapers |
