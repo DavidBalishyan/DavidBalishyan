@@ -24,7 +24,7 @@
 | [C-Chat](https://github.com/DavidBalishyan/C-Chat) | Chat app in The C programming language |
 | [caffeinate](https://github.com/DavidBalishyan/caffeinate) | A Linux reimplementation of caffeinate(8) |
 | [calgo](https://github.com/DavidBalishyan/calgo) | Some algorithms implemented in C |
-| [cboomer](https://github.com/DavidBalishyan/cboomer) | C rewrite of tsoding/boomer |
+| [cboomer](https://github.com/DavidBalishyan/cboomer) | C rewrite of @tsoding/boomer |
 | [cfmt](https://github.com/DavidBalishyan/cfmt) | A C code formatter writen in C with the help of GenAI |
 | [clibx](https://github.com/DavidBalishyan/clibx) | A small C utility library with common macros and helper functions designed to simplify everyday C development tasks. |
 | [cutils](https://github.com/DavidBalishyan/cutils) | Simple rewrite of some GNU coreutils, just for fun |
@@ -47,7 +47,6 @@
 | [chatdeck](https://github.com/DavidBalishyan/chatdeck) | A web app to see your stream chat |
 | [create-d4](https://github.com/DavidBalishyan/create-d4) | :zap: A modern scaffolding CLI to kickstart React projects with Vite or Rsbuild.  Includes options for Tailwind CSS v4, state management, routing, linting, and more. |
 | [davidbalishyan.github.io](https://github.com/DavidBalishyan/davidbalishyan.github.io) | My personal website |
-| [flip-a-coin](https://github.com/DavidBalishyan/flip-a-coin) | Flip-a-coin website |
 | [fungames-nodejs](https://github.com/DavidBalishyan/fungames-nodejs) | 3 fun games in nodejs |
 | [gh](https://github.com/DavidBalishyan/gh) | A way to just read the files in a github repository using just simple web technologies and the github api |
 | [helloPc](https://github.com/DavidBalishyan/helloPc) | This is a website |
@@ -101,6 +100,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [bfjit](https://github.com/DavidBalishyan/bfjit) | A JIT compiler for brainf**k, implemented in zig (original idea by @tsoding) |
 | [build-your-own-ai-agent](https://github.com/DavidBalishyan/build-your-own-ai-agent) | My notes from the build your own AI agent workshop at TUMO center of creative technologies |
 | [cinematique](https://github.com/DavidBalishyan/cinematique) |  |
 | [crud-php-oop](https://github.com/DavidBalishyan/crud-php-oop) | CRUD application using php and object-oriented-programming |
