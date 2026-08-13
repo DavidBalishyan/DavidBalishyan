@@ -38,6 +38,8 @@
   <img src="https://skillicons.dev/icons?i=perl" height="40" alt="Perl"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nim" height="40" alt="Nim"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=zig" height="40" alt="Zig"/>
 </div>
 
 <h2 align="left">Editors, that I use</h2> 
