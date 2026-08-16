@@ -4,7 +4,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [agent](https://github.com/DavidBalishyan/agent) | A simple AI agent written in rust based on the claude api |
+| [agent](https://github.com/DavidBalishyan/agent) | A simple AI agent written in rust based on the claude api [TUMO, year: 2026] |
 | [chat-client.rs](https://github.com/DavidBalishyan/chat-client.rs) | The client for https://github.com/DavidBalishyan/chat.rs |
 | [chat.rs](https://github.com/DavidBalishyan/chat.rs) | A local chat server written in rust |
 | [envforge](https://github.com/DavidBalishyan/envforge) | A way to manage development env(s) without containerization |
@@ -28,12 +28,13 @@
 | [cfmt](https://github.com/DavidBalishyan/cfmt) | A C code formatter writen in C with the help of GenAI |
 | [clibx](https://github.com/DavidBalishyan/clibx) | A small C utility library with common macros and helper functions designed to simplify everyday C development tasks. |
 | [cutils](https://github.com/DavidBalishyan/cutils) | Simple rewrite of some GNU coreutils, just for fun |
-| [myshell](https://github.com/DavidBalishyan/myshell) | A simple shell built as a coding challange |
+| [dmenu](https://github.com/DavidBalishyan/dmenu) | My fork of dmenu |
+| [lsh](https://github.com/DavidBalishyan/lsh) | A (very) simple shell |
 | [sdltimer](https://github.com/DavidBalishyan/sdltimer) | An SDL3-based timer app in C |
-| [smart_home](https://github.com/DavidBalishyan/smart_home) | The 2nd place project on the AESA 24th annual science olympiad |
+| [smart_home](https://github.com/DavidBalishyan/smart_home) | The 2nd place winning project on the AESA 24th annual science olympiad |
 | [st](https://github.com/DavidBalishyan/st) | My fork of st (suckless terminal) |
-| [tumo-agent](https://github.com/DavidBalishyan/tumo-agent) | An AI agent built during the "Build your own AI agents" workshop at TUMO center of creative technologies |
-| [virtual-pet](https://github.com/DavidBalishyan/virtual-pet) | A PlatformIO virtual pet project for the M5stickC, Done at Tumo Center of creative technologies |
+| [tumo-agent](https://github.com/DavidBalishyan/tumo-agent) | An AI agent built during the "Build your own AI agents" workshop at TUMO center of creative technologies [year: 2026] |
+| [virtual-pet](https://github.com/DavidBalishyan/virtual-pet) | A PlatformIO virtual pet project for the M5stickC, Done at Tumo Center of creative technologies [year: 2026] |
 | [zig-build-c](https://github.com/DavidBalishyan/zig-build-c) | Trying out using zig's build system for building a C project |
 
 ### Web
@@ -59,7 +60,7 @@
 | [system-monitor-web](https://github.com/DavidBalishyan/system-monitor-web) | A simple web app focused on creating a nice and simple design |
 | [Tictactoe](https://github.com/DavidBalishyan/Tictactoe) | Tictactoe app |
 | [webman](https://github.com/DavidBalishyan/webman) | A fast, web-based, open-source alternative to Postman - built with Typescript, Tailwind CSS, and Node.js. |
-| [wishlist](https://github.com/DavidBalishyan/wishlist) | A mobile wishlist application built using react native during a workshop at TUMO center of creative technologies |
+| [wishlist](https://github.com/DavidBalishyan/wishlist) | A mobile wishlist application built using react native during a workshop at TUMO center of creative technologies [year: 2026] |
 | [wishlist-website](https://github.com/DavidBalishyan/wishlist-website) | The website for https://github.com/DavidBalishyan/wishlist |
 | [world-generation-p5js](https://github.com/DavidBalishyan/world-generation-p5js) | world generation using p5.js |
 
@@ -69,7 +70,7 @@
 |---------|-------------|
 | [digit-recognizer-tensorflow](https://github.com/DavidBalishyan/digit-recognizer-tensorflow) | Handwritten Digit Recognizer using TensorFlow |
 | [dino-pygame](https://github.com/DavidBalishyan/dino-pygame) | The Chrome dinasour game clone written in python using the pygame library |
-| [makeover](https://github.com/DavidBalishyan/makeover) | A GNU Make alternative designed to be user-friendly and have simple syntax |
+| [makeover](https://github.com/DavidBalishyan/makeover) | A build system/command-runner designed to be so called "self-hosted" in a project of yours |
 | [manimations](https://github.com/DavidBalishyan/manimations) | Examples using the Manim Animation library in python |
 | [pyhello](https://github.com/DavidBalishyan/pyhello) | Theese are a set of mini python programs to help you learn the basics of python |
 | [PyML](https://github.com/DavidBalishyan/PyML) | The final project for a machine learning lab at Tumo center of creative technologies |
@@ -101,12 +102,12 @@
 | Project | Description |
 |---------|-------------|
 | [bfjit](https://github.com/DavidBalishyan/bfjit) | A JIT compiler for brainf**k, implemented in zig (original idea by @tsoding) |
-| [build-your-own-ai-agent](https://github.com/DavidBalishyan/build-your-own-ai-agent) | My notes from the build your own AI agent workshop at TUMO center of creative technologies |
+| [build-your-own-ai-agent](https://github.com/DavidBalishyan/build-your-own-ai-agent) | My notes from the build your own AI agent workshop at TUMO center of creative technologies [year: 2026] |
 | [cinematique](https://github.com/DavidBalishyan/cinematique) |  |
 | [crud-php-oop](https://github.com/DavidBalishyan/crud-php-oop) | CRUD application using php and object-oriented-programming |
 | [dfm](https://github.com/DavidBalishyan/dfm) | A way to manage dotfiles |
 | [e.php](https://github.com/DavidBalishyan/e.php) | Some PHP excersises |
-| [flapper-bird](https://github.com/DavidBalishyan/flapper-bird) | A flappy bird clone made in lua using Love2D |
+| [flapper-bird](https://github.com/DavidBalishyan/flapper-bird) | A flappy bird clone made in lua using Love2D [TUMO, year: 2026] |
 | [login-register-php](https://github.com/DavidBalishyan/login-register-php) | login-register-php app for testing vulnerability |
 | [logo](https://github.com/DavidBalishyan/logo) | My logo(s), I use on the web |
 | [math-in-music](https://github.com/DavidBalishyan/math-in-music) | A scientific paper explaining how mathematics describes music and how mathematics is used in music. |
@@ -114,7 +115,6 @@
 | [mid-autumn-festival-presention](https://github.com/DavidBalishyan/mid-autumn-festival-presention) | 关于中秋节的介绍 |
 | [neepers](https://github.com/DavidBalishyan/neepers) | A full Nim rewrite of tsoding/eepers using naylib |
 | [nim-bigint](https://github.com/DavidBalishyan/nim-bigint) | Arbitrary-precision integer library for Nim. |
-| [nim-learning](https://github.com/DavidBalishyan/nim-learning) | Solutions of a certain set of problems implemented in Nim. WORK IN PROGRESS |
 | [nvim.bak](https://github.com/DavidBalishyan/nvim.bak) | My old neovim configuration (the new one is in my dotfiles) |
 | [pascal-calc](https://github.com/DavidBalishyan/pascal-calc) | A simple GUI X11 calculator app in pascal |
 | [php-excersises](https://github.com/DavidBalishyan/php-excersises) |  |
@@ -123,6 +123,6 @@
 | [send-mails-php](https://github.com/DavidBalishyan/send-mails-php) | How to send e-mail messages with php |
 | [social-php](https://github.com/DavidBalishyan/social-php) | Social app like facebook written in pure php. No framework |
 | [TinyC-test](https://github.com/DavidBalishyan/TinyC-test) | Code written in TinyC to make sure implementation works |
-| [virtual-pet-guide](https://github.com/DavidBalishyan/virtual-pet-guide) | This repo consists of markdown files providing guidance/notes for building certain features on the virtual-pet project |
+| [virtual-pet-guide](https://github.com/DavidBalishyan/virtual-pet-guide) | This repo consists of markdown files providing guidance/notes for building certain features on the virtual-pet project [year: 2026] |
 | [wallpapers](https://github.com/DavidBalishyan/wallpapers) | All of my desktop/laptop wallpapers |
 | [windows-tools](https://github.com/DavidBalishyan/windows-tools) | Some useful windows tools |
