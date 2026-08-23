@@ -21,7 +21,7 @@
 | Project | Description |
 |---------|-------------|
 | [arduio](https://github.com/DavidBalishyan/arduio) | A cycle-accurate Arduino Uno simulator written in C++ |
-| [C-Chat](https://github.com/DavidBalishyan/C-Chat) | Chat app in The C programming language |
+| [C-Chat](https://github.com/DavidBalishyan/C-Chat) | Chat app in The C programming language [TUMO 2025] |
 | [caffeinate](https://github.com/DavidBalishyan/caffeinate) | A Linux reimplementation of caffeinate(8) |
 | [calgo](https://github.com/DavidBalishyan/calgo) | Some algorithms implemented in C |
 | [cboomer](https://github.com/DavidBalishyan/cboomer) | C rewrite of @tsoding/boomer |
@@ -41,7 +41,6 @@
 
 | Project | Description |
 |---------|-------------|
-| [art-p5.js](https://github.com/DavidBalishyan/art-p5.js) | P5.js is an art and creative coding library. I wrote some code using it |
 | [blog](https://github.com/DavidBalishyan/blog) | My personal blog |
 | [button](https://github.com/DavidBalishyan/button) | Just a button |
 | [cboomer-website](https://github.com/DavidBalishyan/cboomer-website) | Website for https://github.com/DavidBalishyan/cboomer |
@@ -68,6 +67,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [cchat](https://github.com/DavidBalishyan/cchat) | Fork/Port of https://github.com/DavidBalishyan/C-Chat (not related to TUMO) |
 | [digit-recognizer-tensorflow](https://github.com/DavidBalishyan/digit-recognizer-tensorflow) | Handwritten Digit Recognizer using TensorFlow |
 | [dino-pygame](https://github.com/DavidBalishyan/dino-pygame) | The Chrome dinasour game clone written in python using the pygame library |
 | [makeover](https://github.com/DavidBalishyan/makeover) | A build system/command-runner designed to be so called "self-hosted" in a project of yours |
@@ -115,9 +115,9 @@
 | [mid-autumn-festival-presention](https://github.com/DavidBalishyan/mid-autumn-festival-presention) | 关于中秋节的介绍 |
 | [neepers](https://github.com/DavidBalishyan/neepers) | A full Nim rewrite of tsoding/eepers using naylib |
 | [nim-bigint](https://github.com/DavidBalishyan/nim-bigint) | Arbitrary-precision integer library for Nim. |
+| [nim-learning](https://github.com/DavidBalishyan/nim-learning) | Solutions of a certain set of problems implemented in Nim |
 | [nvim.bak](https://github.com/DavidBalishyan/nvim.bak) | My old neovim configuration (the new one is in my dotfiles) |
 | [pascal-calc](https://github.com/DavidBalishyan/pascal-calc) | A simple GUI X11 calculator app in pascal |
-| [php-excersises](https://github.com/DavidBalishyan/php-excersises) |  |
 | [php-mysql-example](https://github.com/DavidBalishyan/php-mysql-example) | Example on how to get and save images in database |
 | [pomodoro](https://github.com/DavidBalishyan/pomodoro) | A simple CLI/TUI pomodoro timer written in Nim |
 | [send-mails-php](https://github.com/DavidBalishyan/send-mails-php) | How to send e-mail messages with php |
