@@ -41,7 +41,6 @@
 
 | Project | Description |
 |---------|-------------|
-| [blog](https://github.com/DavidBalishyan/blog) | My personal blog |
 | [button](https://github.com/DavidBalishyan/button) | Just a button |
 | [cboomer-website](https://github.com/DavidBalishyan/cboomer-website) | Website for https://github.com/DavidBalishyan/cboomer |
 | [chatdeck](https://github.com/DavidBalishyan/chatdeck) | A web app to see your stream chat |
@@ -70,6 +69,7 @@
 | [cchat](https://github.com/DavidBalishyan/cchat) | Fork/Port of https://github.com/DavidBalishyan/C-Chat (not related to TUMO) |
 | [digit-recognizer-tensorflow](https://github.com/DavidBalishyan/digit-recognizer-tensorflow) | Handwritten Digit Recognizer using TensorFlow |
 | [dino-pygame](https://github.com/DavidBalishyan/dino-pygame) | The Chrome dinasour game clone written in python using the pygame library |
+| [leetcode](https://github.com/DavidBalishyan/leetcode) | My solutions to some leetcode problems |
 | [makeover](https://github.com/DavidBalishyan/makeover) | A build system/command-runner designed to be so called "self-hosted" in a project of yours |
 | [manimations](https://github.com/DavidBalishyan/manimations) | Examples using the Manim Animation library in python |
 | [pyhello](https://github.com/DavidBalishyan/pyhello) | Theese are a set of mini python programs to help you learn the basics of python |
@@ -102,13 +102,13 @@
 | Project | Description |
 |---------|-------------|
 | [bfjit](https://github.com/DavidBalishyan/bfjit) | A JIT compiler for brainf**k, implemented in zig (original idea by @tsoding) |
+| [blog](https://github.com/DavidBalishyan/blog) | My personal blog |
 | [build-your-own-ai-agent](https://github.com/DavidBalishyan/build-your-own-ai-agent) | My notes from the build your own AI agent workshop at TUMO center of creative technologies [year: 2026] |
 | [cinematique](https://github.com/DavidBalishyan/cinematique) |  |
 | [crud-php-oop](https://github.com/DavidBalishyan/crud-php-oop) | CRUD application using php and object-oriented-programming |
 | [dfm](https://github.com/DavidBalishyan/dfm) | A way to manage dotfiles |
 | [e.php](https://github.com/DavidBalishyan/e.php) | Some PHP excersises |
 | [flapper-bird](https://github.com/DavidBalishyan/flapper-bird) | A flappy bird clone made in lua using Love2D [TUMO, year: 2026] |
-| [login-register-php](https://github.com/DavidBalishyan/login-register-php) | login-register-php app for testing vulnerability |
 | [logo](https://github.com/DavidBalishyan/logo) | My logo(s), I use on the web |
 | [math-in-music](https://github.com/DavidBalishyan/math-in-music) | A scientific paper explaining how mathematics describes music and how mathematics is used in music. |
 | [md2html](https://github.com/DavidBalishyan/md2html) | A simple Markdown(GFM) to HTML converter |
