@@ -30,6 +30,7 @@
 | [cutils](https://github.com/DavidBalishyan/cutils) | Simple rewrite of some GNU coreutils, just for fun |
 | [dmenu](https://github.com/DavidBalishyan/dmenu) | My fork of dmenu |
 | [lsh](https://github.com/DavidBalishyan/lsh) | A (very) simple shell |
+| [makeover](https://github.com/DavidBalishyan/makeover) | A build system/command-runner designed to be so called "self-hosted" in a project of yours |
 | [sdltimer](https://github.com/DavidBalishyan/sdltimer) | An SDL3-based timer app in C |
 | [smart_home](https://github.com/DavidBalishyan/smart_home) | The 2nd place winning project on the AESA 24th annual science olympiad |
 | [st](https://github.com/DavidBalishyan/st) | My fork of st (suckless terminal) |
@@ -70,7 +71,6 @@
 | [digit-recognizer-tensorflow](https://github.com/DavidBalishyan/digit-recognizer-tensorflow) | Handwritten Digit Recognizer using TensorFlow |
 | [dino-pygame](https://github.com/DavidBalishyan/dino-pygame) | The Chrome dinasour game clone written in python using the pygame library |
 | [leetcode](https://github.com/DavidBalishyan/leetcode) | My solutions to some leetcode problems |
-| [makeover](https://github.com/DavidBalishyan/makeover) | A build system/command-runner designed to be so called "self-hosted" in a project of yours |
 | [manimations](https://github.com/DavidBalishyan/manimations) | Examples using the Manim Animation library in python |
 | [pyhello](https://github.com/DavidBalishyan/pyhello) | Theese are a set of mini python programs to help you learn the basics of python |
 | [PyML](https://github.com/DavidBalishyan/PyML) | The final project for a machine learning lab at Tumo center of creative technologies |
