@@ -120,7 +120,7 @@
 | [pascal-calc](https://github.com/DavidBalishyan/pascal-calc) | A simple GUI X11 calculator app in pascal |
 | [php-mysql-example](https://github.com/DavidBalishyan/php-mysql-example) | Example on how to get and save images in database |
 | [pomodoro](https://github.com/DavidBalishyan/pomodoro) | A simple CLI/TUI pomodoro timer written in Nim |
-| [send-mails-php](https://github.com/DavidBalishyan/send-mails-php) | How to send e-mail messages with php |
+| [schoollab143](https://github.com/DavidBalishyan/schoollab143) | Resources to set up new PCs on the school lab in School N143 in Yerevan,  |
 | [social-php](https://github.com/DavidBalishyan/social-php) | Social app like facebook written in pure php. No framework |
 | [TinyC-test](https://github.com/DavidBalishyan/TinyC-test) | Code written in TinyC to make sure implementation works |
 | [virtual-pet-guide](https://github.com/DavidBalishyan/virtual-pet-guide) | This repo consists of markdown files providing guidance/notes for building certain features on the virtual-pet project [year: 2026] |
