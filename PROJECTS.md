@@ -107,7 +107,6 @@
 | [cinematique](https://github.com/DavidBalishyan/cinematique) |  |
 | [crud-php-oop](https://github.com/DavidBalishyan/crud-php-oop) | CRUD application using php and object-oriented-programming |
 | [dfm](https://github.com/DavidBalishyan/dfm) | A way to manage dotfiles |
-| [e.php](https://github.com/DavidBalishyan/e.php) | Some PHP excersises |
 | [flapper-bird](https://github.com/DavidBalishyan/flapper-bird) | A flappy bird clone made in lua using Love2D [TUMO, year: 2026] |
 | [logo](https://github.com/DavidBalishyan/logo) | My logo(s), I use on the web |
 | [math-in-music](https://github.com/DavidBalishyan/math-in-music) | A scientific paper explaining how mathematics describes music and how mathematics is used in music. |
@@ -120,6 +119,7 @@
 | [pascal-calc](https://github.com/DavidBalishyan/pascal-calc) | A simple GUI X11 calculator app in pascal |
 | [php-mysql-example](https://github.com/DavidBalishyan/php-mysql-example) | Example on how to get and save images in database |
 | [pomodoro](https://github.com/DavidBalishyan/pomodoro) | A simple CLI/TUI pomodoro timer written in Nim |
+| [pong](https://github.com/DavidBalishyan/pong) | A pong game written in The C programming language |
 | [schoollab143](https://github.com/DavidBalishyan/schoollab143) | Resources to set up new PCs on the school lab in School N143 in Yerevan,  |
 | [social-php](https://github.com/DavidBalishyan/social-php) | Social app like facebook written in pure php. No framework |
 | [TinyC-test](https://github.com/DavidBalishyan/TinyC-test) | Code written in TinyC to make sure implementation works |
